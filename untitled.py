@@ -7,7 +7,7 @@ header = '<?xml version="1.0" encoding="UTF-8"?>'
 #    data=myfile.read().replace('\n', '')
 # sys.stdout.write(data)
 
-# 2. Convert content utf-8 encoding
+# 2. Convert content into utf-8 encoding
 
 # 3. Load content into XML-processor
 
