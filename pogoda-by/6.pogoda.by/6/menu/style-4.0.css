@@ -1,0 +1,12 @@
+ul {margin:0;padding:0; list-style:none; width:100%; /* Width of Menu Items */ border-bottom: 0px solid #ccc;}
+ul li { position:relative;}
+li ul {position:absolute; left: 0px; border:1px solid #ccc; /* Set 1px less than menu width */ top: 20px; display: none;}
+/* Styles for Menu Items */
+ul li a {display:block; font:10pt Tahoma; /* IE6 Bug */ padding:2px 4px; border: 0px solid #ccc; border-bottom:0;}
+/* Fix IE. Hide from IE Mac \*/*
+html ul li {float: left; height: 1%;} * html
+ul li a {font:10pt Tahoma; height: 1%; } /* End */
+ul li a:hover {font:10pt Tahoma;} /* Hover Styles */
+li ul li a {padding: 2px 4px; color: #333; background: #fff;} /* color: #0066FF;  Sub Menu Styles */
+li:hover ul, li.over ul {display: block;} /* The magic */
+.hv{color: #cccccc; cursor:default; text-decoration: underline;}

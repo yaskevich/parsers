@@ -1,0 +1,82 @@
+#cover{
+max-width:1400px; margin:0; 
+background: #ffffff;
+}
+
+#header{
+border: solid; 
+border-width: 0px 1px 1px 1px; 
+border-color: #8addff #85d9ff #62cbff #85d9ff; 
+background: url(/6/template/img/bg-logo-4.0.gif) repeat-x;
+}
+
+#top-menu{
+border: solid; border-width: 1px 0 1px 0; 
+border-color: #000055; 
+background: url(/6/template/img/bg-mainmenu.gif) repeat-x; 
+padding:2px;
+}
+
+#promo{
+height: auto; 
+border-bottom: 1px solid #c9d0d4; 
+background: #fff;
+}
+
+#outer_wrapper{
+background: #ffffff url(/6/template/img/background_245.gif) repeat-y left; border: 0px solid transparent;
+}
+
+#wrapper{
+background: url(/6/template/img/background_285.gif) repeat-y right;
+}
+
+#container{
+width: 100%; float:left; 
+margin-right: -285px; 
+background: url(/6/template/img/background_285.gif) repeat-y right;
+}
+
+#content{
+margin-right: 285px; 
+background: url(/6/template/img/background_245.gif) repeat-y left;
+}
+
+#main{
+margin-left: 245px; 
+padding: 0px;
+}
+
+#left{width:245px; 
+float:left; 
+background: url(/6/template/img/background_245_top.gif) no-repeat top;
+}
+
+#sidebar{
+width: 285px; 
+float: right; 
+background: url(/6/template/img/background_285_top.gif) no-repeat top;
+}
+
+#footer{
+height: auto; 
+border: 1px solid #c9d0d4; 
+background: #e9eef1; padding: 2px; 
+font:normal 9px Verdana; color: #666;
+}
+
+.clearing{
+height: 50px; 
+clear:both;
+}
+
+body{
+margin:0; min-width:1140px; 
+background: #ffffff url(/6/template/img/bg-body.gif) bottom repeat-x;
+}
+
+.sp a, p.sp{
+color: #666; 
+font: normal 7pt Tahoma; 
+text-decoration:none;
+}

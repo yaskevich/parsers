@@ -1,0 +1,31 @@
+h1 {font: normal 16pt serif, Times; margin: 0px 2px 0px 4px; padding: 0px}
+h2 {font: normal 14pt serif, Times; margin: 0px 2px 4px 4px; padding: 0px}
+h3 {font: normal 14pt serif, Times; margin: 0px 2px 4px 4px}
+h4 {font: normal 13pt serif, Times; margin: 0px 2px 0px 4px}
+
+p  {font: normal 10pt Arial; margin: 2px 4px 4px 4px;}
+sup{font: normal 10px "Palatino Linotype", Garamond;}
+
+
+small {font:normal 8pt Arial; color:#ffffff; margin:0;}
+small a {color:#ffffff;}
+small a:hover {color:#ffffff; text-decoration:none;}
+
+.urlbar   {font: normal 10pt Arial; color: #000; margin-top: 1px; padding-bottom:4px; background: #F2F2FF;}
+.urlbar a {font: bold   10pt Arial; color: #0000A0; text-decoration: underline;}
+
+.Text{font: normal 10pt Arial; color: #000; margin: 2px 4px 4px 6px;}
+
+.form {font: normal 9pt Tahoma; border: 1px #999 solid;}
+.btn {font: normal 9pt Tahoma; border: 1px  #CCCCCC solid; background:#FFF url(/6/template/img/btn.gif) repeat-x; cursor:pointer;}
+
+.P_column {font: normal 8pt Tahoma; color: #7C7997; background: url(/6/template/img/vr.gif) repeat-y right; padding: 2px 4px; margin:0; text-align: right}
+.P_column a {color: #0000A0; text-decoration: underline}
+
+.search_result {margin: 15px 0px 4px 4px; background:#FFF; position:absolute; font: normal 9pt Arial; border: 1px #c9d0d4 solid; visibility: hidden;}
+.search_result a{color: #FF5604}
+
+.HR{background: transparent url(/6/template/img/hr.gif) repeat-x bottom; color: #AAA; font: normal 14pt Arial;}
+.HR a  {color: #AAA; text-shadow: 1px 1px #FFF;}
+.HR a:hover {text-decoration: none;}
+.lHR {background: transparent url(/6/template/img/l-hr.gif) repeat-x bottom; color: #CCC; font: normal 8pt Arial;}

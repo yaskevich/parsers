@@ -1,0 +1,878 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta name="Author" content="Belov Alexandr, Bychenkov Alexandr" />
+	<meta name="Robots" content="index, all">
+	<meta name="yandex-verification" content="4c9dcf799e8d46d8" />
+	<meta name="document-state" content="dynamic" />
+	<meta http-equiv="Cache-Control" content="max-age=7200, must-revalidate" />
+	<meta name="generator" content="Art.Scene.Design [v.4.5]" />
+	<meta name="Copyright" content="2008-2015, Art.Scene.Design" />
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+	<meta name="Keywords" content="Гидрометцентр, Германия, прогноз погоды, Карлсруэ, температура воздуха, атмосферное давление, gjujlf" />
+	<meta name="Description" content="Погода в Карлсруэ, Германия.за 12:00 UTC Температура воздуха: +19  Ветер: 6 м/с,  С-В Облачность: нет данных Давление: 1023 гПа, падает.  Гидромет." />
+	<meta name="Classification" content="Справка, Погода, Прогноз погоды, Карлсруэ, Германия" />
+	<meta name="Category" content="Справки, Погода, Метео" />
+	<title>POGODA.BY | Прогноз погоды на 6 дней подробно | Прогноз погоды подробно — Карлсруэ | Гидромет</title>
+<!-- dt -->
+
+<!--[if lt IE 7]>
+<style type="text/css">
+div#cover{width:expression(((document.compatMode && document.compatMode=='CSS1Compat') ? document.documentElement.clientWidth : document.body.clientWidth) < 1140 ? "1140px" : "auto");}
+</style>
+<![endif]-->
+
+	<script type="text/javascript">
+		<!--
+		if (window.attachEvent){
+		window.attachEvent('onresize',center);
+		window.attachEvent('onload',center);
+		}else if(window.addEventListener){
+		window.addEventListener('resize',center, false);
+		window.addEventListener('load',center, false);
+		}
+		function center(){
+		var i = document.getElementById('cover');
+		i.style.marginLeft = parseInt(document.body.offsetWidth-i.offsetWidth)/2+'px';
+		};
+		-->
+	</script>
+
+<link rel="stylesheet" href="../6/template/style/II.css" type="text/css">
+<link rel="stylesheet" href="../6/template/style/main.css" type="text/css">
+<link rel="stylesheet" href="../6/template/style/link.css" type="text/css">
+
+<!-- SP-->
+<script async="async" src="//cdn-rtb.sape.ru/rtb-b/js/052/2/13052.js" type="text/javascript"></script>
+<!-- SP -->
+<link rel="alternate" type="application/rss+xml" title="6.POGODA.BY | Штормпредупреждения по РБ" href="/rss/storm.php">
+<link rel="alternate" type="application/rss+xml" title="6.POGODA.BY | Обзор погоды и прогноз погоды на 3 дня в РБ" href="/rss/rss.php">
+
+<link rel="alternate" type="application/rss+xml" title="Гидрометцентр РБ | POGODA.BY :: RSS погода фактическая Карлсруэ" href="/rss/cityrss.php?q=10727">
+<script type="text/javascript" src="../6/menu/drop_down.js"></script><link rel="stylesheet" href="../6/menu/style-4.0.css" type="text/css"><link rel="shortcut icon" href="/b.ico" type="image/x-icon"></head>
+<!-- body -->
+<body>
+
+<!-- растяжка 100% на 50 или на 60 px -->
+<div align="center" style="margin:0px; padding:0px;"></div>
+<!-- растяжка 100% на 50 или на 60 px -->
+
+	<div id="header">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+	<td width="5%"> </td>
+
+	<td width="65%" valign="top"><a href="http://pogoda.by/10727" title="Город Карлсруэ. Заглавная страница POGODA.BY"><img src="../6/template/img/logo2-4.5.gif" alt="POGODA.BY - погода на 6 дней в Карлсруэ" border="0"></a></td>
+	<td width="30%" valign="top"><a href="/get/?q=hmc.by" target="_blank"><img src="../6/template/img/logo-HMC-pogoda-2.gif" alt= "HMC.BY" align="left" border="0"></a><small><img src='../6/template/img/clock-small.gif' alt='время в в Карлсруэ, ГМТ'>12:21 UTC. 26 сентября 2015<br>
+	<img src="../6/template/img/mail-small.png" alt= "Е-почта" border="0"><small><acronym title="Электропочта"><a href="mailTo:master@pogoda.by">Контакт</a></acronym></small><br>
+	<a style="border-bottom: 1px dotted;" href="/10727"><img src="../6/template/img/home-small.png" alt= "в Карлсруэ" border="0"></a>
+	&#8594; Карлсруэ подробно &#8594; <acronym title="Погода Карлсруэ"><a target="_blank" href="/get/?q=m&amp;city=10727">В мобильном</a></acronym>	</small>
+
+	</td>
+	</tr>
+	</table>
+	</div>
+<div id="top-menu">
+<table border="0" cellspacing="0" cellpadding="0" align="center" width="900">
+<tr>
+<td width="18%">
+
+<ul id="M1">
+<li><a href='#' style="cursor:default; color:white;"><u><b>ИНФОРМАЦИЯ</b></u></a>
+	<ul style="visibility: visible">
+		<li>
+		<a href='/get/?q=weather_news'>Метеоновости</a>		</li>
+
+		<li>
+		<a href='/get/?q=publications_about_the_weather'>Публикации</a>		</li>
+
+		<li>
+		<a href='/get/?q=meteorological_dictionary'>Метеословарь</a>		</li>
+
+		<li>
+		<a href='/get/?q=hydrology_belarus'>Гидрография рек РБ</a>		</li>
+
+		<li>
+		<a href='/get/?q=climate_belarus'>Справочник по климату</a>		</li>
+  </ul>
+</li>
+</ul>
+</td>
+
+<td width="18%">
+<ul id="M2">
+<li><a href='#' style="cursor: default; color:white;"><u><b>КАРТЫ ПОГОДЫ</b></u></a>
+	<ul style="visibility: visible">
+
+			<li>
+			<a href='/get/?q=interactive_weather_maps'>Интерактивные карты</a>			</li>
+
+			<li>
+			<a href='/get/?q=meteo_maps'>Карты погоды</a>			</li>
+
+			<li>
+			<a href='/get/?q=satellite'>Спутниковые снимки</a>			</li>
+
+			<li>
+			<a href='/get/?q=weather_radar'>Метеорадары</a>			</li>
+
+			<li>
+			<a href='/get/?q=meteogramm&amp;city=10727'>Метеограмма Карлсруэ</a>			</li>
+
+	</ul>
+</li>
+</ul>
+</td>
+
+<td width="18%">
+<ul id="M3">
+<li><a href='#' style="cursor:default; color:white;"><u><b>НАБЛЮДЕНИЯ</b></u></a>
+	<ul style="visibility:visible">
+
+			<li>
+			<a href='/get/?q=meteo'>Метеонаблюдения</a>			</li>
+
+			<li>
+			<a href='/get/?q=storm'>Штормовые сообщения</a>			</li>
+
+			<li>
+			<a href='/get/?q=avia'>Погода в аэропортах</a>			</li>
+
+			<li>
+			<a href='/get/?q=hydrology_belarus'>Гидрология</a>			</li>
+
+			<li>
+			<a href='/get/?q=sea_temperature'>Температура моря</a>			</li>
+
+			<li>
+			<a href='/get/?q=geomagnetic_forecast'>Геомагнитная обстановка</a>			</li>
+
+			<li>
+			<a href='/get/?q=uv-index'>Озон и УФ-индекс</a>			</li>
+
+	</ul>
+</li>
+</ul>
+</td>
+
+<td width="18%">
+<ul id="M4">
+<li><a href='#' style="cursor:default; color:white;"><u><b>СЕРВИСЫ</b></u></a>
+	<ul style="visibility: visible">
+
+			<li>
+			<a href='/get/?q=xml'>Информация в XML</a>			</li>
+
+			<li>
+			<a href='/get/?q=feeds'>RSS-ленты погоды</a>			</li>
+
+			<li>
+			<a href='/get/?q=meteo_informer'>Информер погоды</a>			</li>
+
+			<li>
+			<a href='/get/?q=packed_meteorological_archive'>Архив метеонаблюдений</a>			</li>
+
+			<li>
+			<a href='/get/?q=packed_aviameteorological_archive'>Архив авиапогоды</a>			</li>
+
+			<li>
+			<a href='/get/?q=geomagnetic_data'>Архив геомагнитный</a>			</li>
+
+	</ul>
+</li>
+</ul>
+</td>
+
+
+<td width="18%">
+<ul id="M5">
+<li><a href='#' style="cursor:default; color:white;"><u><b>POGODA.BY</b></u></a>
+	<ul style="visibility: visible">
+
+			<li>
+			<a href='/get/?q=pogoda.by'>На главную</a>			</li>
+
+			<li>
+			<a href='/get/?q=pogoda.by_about'>О сайте</a>			</li>
+
+			<li>
+			<a href='/get/?q=reclame'>Реклама на POGODA.BY</a>			</li>
+
+			<li>
+			<a href='/search/'>Список городов</a>			</li>
+
+			<li>
+			<a href='/3h/10727'>Погода подробно GFS <sup style='color:red;'>&beta;</sup></a>			</li>
+
+			<li>
+			<a href='/get/?q=old_forecast'>Прогноз по-старому</a>			</li>
+
+			<li>
+			<a href='/get/?q=old_map'>Карта старая</a>			</li>
+
+			<li>
+			<a href='http://pda.pogoda.by/?city=10727' target='_blank'>Погода в телефоне</a>			</li>
+
+   	</ul>
+ </li>
+</ul>
+</td>
+<td nowrap width="10%"><a href='/' target="_blank" style="color:#FFE137; font:10pt Tahoma;"></a></td>
+</tr>
+</table>
+</div>
+<!--серединка 1400 -->
+<div id="cover">
+<!-- главное меню -->
+		<div id="wrapper">
+				<div id="container">
+						<div id="content">
+						<div style="background: transparent url(../6/template/img/bg-center.gif) top repeat-x;">
+						
+<style type="text/css" media="screen">
+/*<![CDATA[*/
+.whiteThing  {background: #FFFFFF;}
+.yellowThing {background: #FFFADD;}
+table#forecast {border-collapse: collapse; padding:0px; margin: 2px 0; background: #fff; border: solid; border-color:#DFDFDF; border-width: 4px 0px 4px 0px ;}
+table#forecast td {font: normal 9pt Arial; color: #000; padding: 2px; border: solid; border-width: 1px 0px 1px 1px; border-color: #DDD;}
+table#forecast td.ttl{font: 8pt Arial;}
+/*]]>*/
+</style>
+
+
+<h1>Погода <span style="color:red;">в Карлсруэ</span>, Германия. Прогноз на 6 дней</h1>
+<table id='forecast' width='100%'>
+<tr><td style='border-left: 0px;' colspan='2'>&nbsp;<strong>Дата</strong>&nbsp;</td>
+<td class='ttl'><strong>Температура<br>воздуха, &deg;C</strong></td>
+<td class='ttl' colspan='2'><b>Облачность и осадки</b><br></td>
+<td class='ttl'><strong>Ветер, м/с</strong>&nbsp;</td>
+<td class='ttl'><strong>Атмосферное<br>давление, гПа<br><span style='color:#888888'>[мм рт.ст.]</span></strong>&nbsp;</td>
+<td class='ttl'><strong>Влажность, %</strong></td>
+</tr>
+<tr>
+<td bgcolor='#F2F2FF' colspan='8' style='border-left: 0px;'>&nbsp;<b>Суббота, 26 сентября</b></td></tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>день</td>
+  <td title='T2м=18.7'>+18..+20</td>
+  <td width='46'><img src='/pict-40/FEW.png' width='40' height='40' vspace='2' hspace='2' alt='Небольшая облачность. Без осадков.'></td>
+  <td title='Количество осадков: 0.05 | 0.05  мм/3 ч. H=0, M=0, L=10, C=0%. SNOD=0 см. Общее количество облаков: FEW'>Небольшая облачность. Без осадков.      <br></td>
+  <td>5–7, С-В,<br>порывы до 6 </td>
+  <td>1023<br><span style='color:#888888'>[768]</span></td>
+  <td title='RH=48'>50</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>вечер</td>
+  <td title='T2м=18.1'>+17..+19</td>
+  <td width='46'><img src='/pict-40/FEWn.png' width='40' height='40' vspace='2' hspace='2' alt='Небольшая облачность. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=10, C=0%. SNOD=0 см. Общее количество облаков: FEW'>Небольшая облачность. Без осадков.      <br></td>
+  <td>6–8, С-В,<br>порывы до 7 </td>
+  <td>1023<br><span style='color:#888888'>[767]</span></td>
+  <td title='RH=47'>45</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>вечер</td>
+  <td title='T2м=12.5'>+11..+13</td>
+  <td width='46'><img src='/pict-40/SKCn.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>4–6, С-В,<br>порывы до 8 </td>
+  <td>1025<br><span style='color:#888888'>[769]</span></td>
+  <td title='RH=71'>70</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#F2F2FF'>ночь</td>
+  <td title='T2м=10.3'>+9..+11</td>
+  <td width='46'><img src='/pict-40/SKCn.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>4–6, С-В,<br>порывы до 8 </td>
+  <td>1026<br><span style='color:#888888'>[769]</span></td>
+  <td title='RH=84'>85</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2FF' colspan='8' style='border-left: 0px;'>&nbsp;<b><font color='#FF8000'>Воскресенье</font>, 27 сентября</b></td></tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#F2F2FF'>ночь</td>
+  <td title='T2м=10.9'>+10..+12</td>
+  <td width='46'><img src='/pict-40/SKCn.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>4–6, С-В,<br>порывы до 8 </td>
+  <td>1026<br><span style='color:#888888'>[770]</span></td>
+  <td title='RH=79'>80</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>утро</td>
+  <td title='T2м=10.3'>+9..+11</td>
+  <td width='46'><img src='/pict-40/SKC.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>4–6, С-В,<br>порывы до 9 </td>
+  <td>1027<br><span style='color:#888888'>[770]</span></td>
+  <td title='RH=76'>75</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>утро</td>
+  <td title='T2м=8.6'>+8..+10</td>
+  <td width='46'><img src='/pict-40/SKC.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>4–6, С-В,<br>порывы до 9 </td>
+  <td>1028<br><span style='color:#888888'>[771]</span></td>
+  <td title='RH=80'>80</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>день</td>
+  <td title='T2м=14.6'>+14..+16</td>
+  <td width='46'><img src='/pict-40/SKC.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>7–9, Восточный,<br>порывы до 9 </td>
+  <td>1028<br><span style='color:#888888'>[771]</span></td>
+  <td title='RH=56'>55</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>день</td>
+  <td title='T2м=17.5'>+16..+18</td>
+  <td width='46'><img src='/pict-40/SKC.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>7–9, С-В,<br>порывы до 9 </td>
+  <td>1028<br><span style='color:#888888'>[771]</span></td>
+  <td title='RH=44'>45</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>вечер</td>
+  <td title='T2м=17.3'>+16..+18</td>
+  <td width='46'><img src='/pict-40/SKCn.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>7–9, С-В,<br>порывы до 9 </td>
+  <td>1027<br><span style='color:#888888'>[771]</span></td>
+  <td title='RH=44'>45</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>вечер</td>
+  <td title='T2м=12.2'>+11..+13</td>
+  <td width='46'><img src='/pict-40/SKCn.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>5–7, С-В,<br>порывы до 11 </td>
+  <td>1030<br><span style='color:#888888'>[772]</span></td>
+  <td title='RH=62'>60</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#F2F2FF'>ночь</td>
+  <td title='T2м=10.5'>+9..+11</td>
+  <td width='46'><img src='/pict-40/SKCn.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>5–7, С-В,<br>порывы до 13 </td>
+  <td>1031<br><span style='color:#888888'>[774]</span></td>
+  <td title='RH=73'>75</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2FF' colspan='8' style='border-left: 0px;'>&nbsp;<b>Понедельник, 28 сентября</b></td></tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#F2F2FF'>ночь</td>
+  <td title='T2м=8.4'>+7..+9</td>
+  <td width='46'><img src='/pict-40/SKCn.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>4–6, Восточный,<br>порывы до 9 </td>
+  <td>1032<br><span style='color:#888888'>[774]</span></td>
+  <td title='RH=82'>80</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>утро</td>
+  <td title='T2м=7'>+6..+8</td>
+  <td width='46'><img src='/pict-40/SKC.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>4–6, С-В,<br>порывы до 8 </td>
+  <td>1032<br><span style='color:#888888'>[774]</span></td>
+  <td title='RH=88'>90</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>утро</td>
+  <td title='T2м=6.8'>+6..+8</td>
+  <td width='46'><img src='/pict-40/SKC.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>4–6, С-В,<br>порывы до 10 </td>
+  <td>1033<br><span style='color:#888888'>[775]</span></td>
+  <td title='RH=88'>90</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>день</td>
+  <td title='T2м=13.7'>+13..+15</td>
+  <td width='46'><img src='/pict-40/SKC.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>7–9, Восточный,<br>порывы до 10 </td>
+  <td>1033<br><span style='color:#888888'>[775]</span></td>
+  <td title='RH=58'>60</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>день</td>
+  <td title='T2м=17.3'>+16..+18</td>
+  <td width='46'><img src='/pict-40/SKC.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>8–10, С-В,<br>порывы до 10 </td>
+  <td>1032<br><span style='color:#888888'>[774]</span></td>
+  <td title='RH=45'>45</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>вечер</td>
+  <td title='T2м=17.6'>+17..+19</td>
+  <td width='46'><img src='/pict-40/SKCn.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>7–9, С-В,<br>порывы до 10 </td>
+  <td>1030<br><span style='color:#888888'>[773]</span></td>
+  <td title='RH=43'>45</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>вечер</td>
+  <td title='T2м=12.3'>+11..+13</td>
+  <td width='46'><img src='/pict-40/SKCn.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>5–7, С-В,<br>порывы до 13 </td>
+  <td>1031<br><span style='color:#888888'>[773]</span></td>
+  <td title='RH=56'>55</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#F2F2FF'>ночь</td>
+  <td title='T2м=10.3'>+9..+11</td>
+  <td width='46'><img src='/pict-40/SKCn.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>5–7, Восточный,<br>порывы до 14 </td>
+  <td>1032<br><span style='color:#888888'>[774]</span></td>
+  <td title='RH=64'>65</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2FF' colspan='8' style='border-left: 0px;'>&nbsp;<b>Вторник, 29 сентября</b></td></tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#F2F2FF'>ночь</td>
+  <td title='T2м=8.3'>+7..+9</td>
+  <td width='46'><img src='/pict-40/SKCn.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>4–6, Восточный,<br>порывы до 9 </td>
+  <td>1032<br><span style='color:#888888'>[774]</span></td>
+  <td title='RH=73'>75</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>утро</td>
+  <td title='T2м=6.8'>+6..+8</td>
+  <td width='46'><img src='/pict-40/SKC.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>3–5, С-В,<br>порывы до 6 </td>
+  <td>1031<br><span style='color:#888888'>[773]</span></td>
+  <td title='RH=83'>85</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>утро</td>
+  <td title='T2м=6.5'>+6..+8</td>
+  <td width='46'><img src='/pict-40/SKC.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>3–5, С-В,<br>порывы до 8 </td>
+  <td>1031<br><span style='color:#888888'>[773]</span></td>
+  <td title='RH=86'>85</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>день</td>
+  <td title='T2м=13.7'>+13..+15</td>
+  <td width='46'><img src='/pict-40/SKC.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>7–9, Восточный,<br>порывы до 11 </td>
+  <td>1030<br><span style='color:#888888'>[773]</span></td>
+  <td title='RH=56'>55</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>день</td>
+  <td title='T2м=16.8'>+16..+18</td>
+  <td width='46'><img src='/pict-40/SKC.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>8–10, С-В,<br>порывы до 12 </td>
+  <td>1028<br><span style='color:#888888'>[771]</span></td>
+  <td title='RH=44'>45</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>вечер</td>
+  <td title='T2м=16.7'>+16..+18</td>
+  <td width='46'><img src='/pict-40/SKCn.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>8–10, С-В,<br>порывы до 11 </td>
+  <td>1027<br><span style='color:#888888'>[770]</span></td>
+  <td title='RH=46'>45</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>вечер</td>
+  <td title='T2м=11.8'>+11..+13</td>
+  <td width='46'><img src='/pict-40/SKCn.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>7–9, С-В,<br>порывы до 15 </td>
+  <td>1028<br><span style='color:#888888'>[771]</span></td>
+  <td title='RH=59'>60</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#F2F2FF'>ночь</td>
+  <td title='T2м=9.7'>+9..+11</td>
+  <td width='46'><img src='/pict-40/SKCn.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>6–8, С-В,<br>порывы до 14 </td>
+  <td>1028<br><span style='color:#888888'>[771]</span></td>
+  <td title='RH=69'>70</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2FF' colspan='8' style='border-left: 0px;'>&nbsp;<b>Среда, 30 сентября</b></td></tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#F2F2FF'>ночь</td>
+  <td title='T2м=7.5'>+7..+9</td>
+  <td width='46'><img src='/pict-40/SKCn.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>5–7, С-В,<br>порывы до 11 </td>
+  <td>1027<br><span style='color:#888888'>[770]</span></td>
+  <td title='RH=82'>80</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>утро</td>
+  <td title='T2м=6.5'>+5..+7</td>
+  <td width='46'><img src='/pict-40/SKC.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>5–7, С-В,<br>порывы до 12 </td>
+  <td>1027<br><span style='color:#888888'>[770]</span></td>
+  <td title='RH=88'>90</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>утро</td>
+  <td title='T2м=6.1'>+5..+7</td>
+  <td width='46'><img src='/pict-40/SKC.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>5–7, С-В,<br>порывы до 12 </td>
+  <td>1026<br><span style='color:#888888'>[770]</span></td>
+  <td title='RH=90'>90</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>день</td>
+  <td title='T2м=11.6'>+11..+13</td>
+  <td width='46'><img src='/pict-40/RA.png' width='40' height='40' vspace='2' hspace='2' alt='Переменная облачность. Возможен    дождь.'></td>
+  <td title='Количество осадков: 0.1 | 0.1  мм/3 ч. H=0, M=0, L=20, C=0%. SNOD=0 см. Общее количество облаков: SCT'>Переменная облачность. Возможен    дождь.   <br></td>
+  <td>8–10, С-В,<br>порывы до 11 </td>
+  <td>1025<br><span style='color:#888888'>[769]</span></td>
+  <td title='RH=61'>60</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>день</td>
+  <td title='T2м=14.6'>+14..+16</td>
+  <td width='46'><img src='/pict-40/RA.png' width='40' height='40' vspace='2' hspace='2' alt='Переменная облачность. Возможен    дождь.'></td>
+  <td title='Количество осадков: 0.15 | 0.26  мм/3 ч. H=0, M=0, L=20, C=0%. SNOD=0 см. Общее количество облаков: SCT'>Переменная облачность. Возможен    дождь.   <br></td>
+  <td>9–11, С-В,<br>порывы до 11 </td>
+  <td>1024<br><span style='color:#888888'>[768]</span></td>
+  <td title='RH=45'>45</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>вечер</td>
+  <td title='T2м=14.4'>+13..+15</td>
+  <td width='46'><img src='/pict-40/FEWn.png' width='40' height='40' vspace='2' hspace='2' alt='Небольшая облачность. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0.02  мм/3 ч. H=0, M=0, L=10, C=0%. SNOD=0 см. Общее количество облаков: FEW'>Небольшая облачность. Без осадков.      <br></td>
+  <td>8–10, С-В,<br>порывы до 10 </td>
+  <td>1022<br><span style='color:#888888'>[767]</span></td>
+  <td title='RH=42'>40</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>вечер</td>
+  <td title='T2м=9.6'>+9..+11</td>
+  <td width='46'><img src='/pict-40/FEWn.png' width='40' height='40' vspace='2' hspace='2' alt='Небольшая облачность. Без осадков.'></td>
+  <td title='Количество осадков: 0.05 | 0.03  мм/3 ч. H=0, M=0, L=10, C=0%. SNOD=0 см. Общее количество облаков: FEW'>Небольшая облачность. Без осадков.      <br></td>
+  <td>5–7, С-В,<br>порывы до 10 </td>
+  <td>1023<br><span style='color:#888888'>[767]</span></td>
+  <td title='RH=58'>60</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#F2F2FF'>ночь</td>
+  <td title='T2м=9.9'>+9..+11</td>
+  <td width='46'><img src='/pict-40/BKNn.png' width='40' height='40' vspace='2' hspace='2' alt='Облачно с прояснениями. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=70, C=0%. SNOD=0 см. Общее количество облаков: BKN'>Облачно с прояснениями. Без осадков.      <br></td>
+  <td>6–8, С-В,<br>порывы до 12 </td>
+  <td>1022<br><span style='color:#888888'>[767]</span></td>
+  <td title='RH=57'>55</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2FF' colspan='8' style='border-left: 0px;'>&nbsp;<b>Четверг, 01 октября</b></td></tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#F2F2FF'>ночь</td>
+  <td title='T2м=7.5'>+7..+9</td>
+  <td width='46'><img src='/pict-40/SCTn.png' width='40' height='40' vspace='2' hspace='2' alt='Переменная облачность. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=40, C=0%. SNOD=0 см. Общее количество облаков: SCT'>Переменная облачность. Без осадков.      <br></td>
+  <td>5–7, С-В,<br>порывы до 12 </td>
+  <td>1022<br><span style='color:#888888'>[766]</span></td>
+  <td title='RH=69'>70</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>утро</td>
+  <td title='T2м=6.3'>+5..+7</td>
+  <td width='46'><img src='/pict-40/SKC.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>6–8, С-В,<br>порывы до 12 </td>
+  <td>1021<br><span style='color:#888888'>[766]</span></td>
+  <td title='RH=79'>80</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>утро</td>
+  <td title='T2м=6.2'>+5..+7</td>
+  <td width='46'><img src='/pict-40/SKC.png' width='40' height='40' vspace='2' hspace='2' alt='Ясно. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=0, M=0, L=0, C=0%. SNOD=0 см. Общее количество облаков: SKC'>Ясно. Без осадков.      <br></td>
+  <td>6–8, С-В,<br>порывы до 12 </td>
+  <td>1021<br><span style='color:#888888'>[766]</span></td>
+  <td title='RH=84'>85</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>день</td>
+  <td title='T2м=10.8'>+10..+12</td>
+  <td width='46'><img src='/pict-40/FEW.png' width='40' height='40' vspace='2' hspace='2' alt='Небольшая облачность. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=100, M=0, L=10, C=0%. SNOD=0 см. Общее количество облаков: FEW'>Небольшая облачность. Без осадков.      <br></td>
+  <td>7–9, С-В,<br>порывы до 10 </td>
+  <td>1020<br><span style='color:#888888'>[765]</span></td>
+  <td title='RH=66'>65</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>день</td>
+  <td title='T2м=14.3'>+13..+15</td>
+  <td width='46'><img src='/pict-40/SCT.png' width='40' height='40' vspace='2' hspace='2' alt='Переменная облачность. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=100, M=10, L=30, C=0%. SNOD=0 см. Общее количество облаков: SCT'>Переменная облачность. Без осадков.      <br></td>
+  <td>7–9, С-В,<br>порывы до 10 </td>
+  <td>1019<br><span style='color:#888888'>[764]</span></td>
+  <td title='RH=57'>55</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>вечер</td>
+  <td title='T2м=13.8'>+13..+15</td>
+  <td width='46'><img src='/pict-40/OVCn.png' width='40' height='40' vspace='2' hspace='2' alt='Сплошная облачность. Без осадков.'></td>
+  <td title='Количество осадков: 0.05 | 0.01  мм/3 ч. H=100, M=90, L=80, C=0%. SNOD=0 см. Общее количество облаков: OVC'>Сплошная облачность. Без осадков.      <br></td>
+  <td>8–10, С-В,<br>порывы до 11 </td>
+  <td>1018<br><span style='color:#888888'>[763]</span></td>
+  <td title='RH=66'>65</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>вечер</td>
+  <td title='T2м=11.6'>+11..+13</td>
+  <td width='46'><img src='/pict-40/RA.png' width='40' height='40' vspace='2' hspace='2' alt='Сплошная облачность. Небольшой    дождь.'></td>
+  <td title='Количество осадков: 1.1 | 0.01  мм/3 ч. H=90, M=90, L=80, C=0%. SNOD=0 см. Общее количество облаков: OVC'>Сплошная облачность. Небольшой    дождь.   <br></td>
+  <td>6–8, С-В,<br>порывы до 14 </td>
+  <td>1017<br><span style='color:#888888'>[763]</span></td>
+  <td title='RH=86'>85</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#F2F2FF'>ночь</td>
+  <td title='T2м=12.2'>+11..+13</td>
+  <td width='46'><img src='/pict-40/RA.png' width='40' height='40' vspace='2' hspace='2' alt='Сплошная облачность. Возможен    дождь.'></td>
+  <td title='Количество осадков: 0.69 | 0  мм/3 ч. H=100, M=100, L=70, C=0%. SNOD=0 см. Общее количество облаков: OVC'>Сплошная облачность. Возможен    дождь.   <br></td>
+  <td>7–9, С-В,<br>порывы до 15 </td>
+  <td>1015<br><span style='color:#888888'>[761]</span></td>
+  <td title='RH=85'>85</td>
+</tr>
+<tr>
+<td bgcolor='#F2F2FF' colspan='8' style='border-left: 0px;'>&nbsp;<b>Пятница, 02 октября</b></td></tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#F2F2FF'>ночь</td>
+  <td title='T2м=11'>+10..+12</td>
+  <td width='46'><img src='/pict-40/OVCn.png' width='40' height='40' vspace='2' hspace='2' alt='Сплошная облачность. Без осадков.'></td>
+  <td title='Количество осадков: 0.06 | 0  мм/3 ч. H=90, M=90, L=40, C=0%. SNOD=0 см. Общее количество облаков: OVC'>Сплошная облачность. Без осадков.      <br></td>
+  <td>6–8, С-В,<br>порывы до 13 </td>
+  <td>1015<br><span style='color:#888888'>[761]</span></td>
+  <td title='RH=87'>85</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>утро</td>
+  <td title='T2м=9.9'>+9..+11</td>
+  <td width='46'><img src='/pict-40/FEW.png' width='40' height='40' vspace='2' hspace='2' alt='Небольшая облачность. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=60, M=10, L=0, C=0%. SNOD=0 см. Общее количество облаков: FEW'>Небольшая облачность. Без осадков.      <br></td>
+  <td>5–7, С-В,<br>порывы до 12 </td>
+  <td>1015<br><span style='color:#888888'>[761]</span></td>
+  <td title='RH=89'>90</td>
+</tr>
+<tr onmouseover="this.className='yellowThing'" onmouseout="this.className='whiteThing'">
+<td colspan='2' style='border-left:0px; padding: 0px 0px 0px 10px; background:#FFFFFF'>утро</td>
+  <td title='T2м=9.2'>+8..+10</td>
+  <td width='46'><img src='/pict-40/FEW.png' width='40' height='40' vspace='2' hspace='2' alt='Небольшая облачность. Без осадков.'></td>
+  <td title='Количество осадков: 0 | 0  мм/3 ч. H=60, M=10, L=0, C=0%. SNOD=0 см. Общее количество облаков: FEW'>Небольшая облачность. Без осадков.      <br></td>
+  <td>4–6, С-В,<br>порывы до 10 </td>
+  <td>1016<br><span style='color:#888888'>[762]</span></td>
+  <td title='RH=89'>90</td>
+</tr></table>
+<div class='HR' align='right' style='background:#FFF; text-transform: uppercase; padding:0px; margin:4px 1px;'><a href='/get/?q=meteogramm&amp;city=10727' title='график погоды Карлсруэ'>&#8594; Карлсруэ, МЕТЕОГРАММА</a>&nbsp;&nbsp;&nbsp;<a href='/print/?city=10727' title='печатать прогноз погоды Карлсруэ'>&#8594; ПЕЧАТЬ</a>&nbsp;</div><br>						</div>
+						</div>
+				</div>
+			<div id="sidebar">
+			<script type="text/javascript">
+<!--
+function openLink(){
+	with (document.getElementById('div_link')){
+		style.display = (style.display != 'none') ? 'none' : '';
+	    document.getElementById('a_link').innerHTML = (style.display == 'none') ? '&nbsp;[+] Показать' : '&nbsp;[&#150;] Убрать';
+    }
+}
+//-->
+</script>
+
+<h3>Популярные разделы сайта</h3><p style="padding:0px 2px">&#9642;&nbsp;<a href='/get/?q=pogoda.by'><span style="color:#FF6600; font-size:12pt; font-weight:bold">Погода на 3 дня</span></a> <sup title='просмотров за последние 24 ч'>66150</sup><br>
+&#9642;&nbsp;<a href='/get/?q=mobile'>Погода в телефоне</a> <sup title='просмотров за последние 24 ч'>9743</sup><br>
+&#9642;&nbsp;<a href='/get/?q=weather_news'>Метеоновости</a> <sup title='просмотров за последние 24 ч'>5249</sup><br>
+&#9642;&nbsp;<a href='/get/?q=weather_radar'>Метеорадары</a> <sup title='просмотров за последние 24 ч'>1825</sup><br>
+&#9642;&nbsp;<a href='/get/?q=avia'>Погода в аэропортах</a> <sup title='просмотров за последние 24 ч'>988</sup><br>
+&#9642;&nbsp;<a href='/get/?q=sea_temperature'>Температура моря на курортах</a> <sup title='просмотров за последние 24 ч'>836</sup><br>
+&#9642;&nbsp;<a href='/get/?q=interactive_weather_maps'>Интерактивные карты</a> <sup title='просмотров за последние 24 ч'>621</sup><br>
+&#9642;&nbsp;<a href='/get/?q=synoptic_map'>Синоптическая карта</a> <sup title='просмотров за последние 24 ч'>497</sup><br>
+</p><h3>TOP-10 просмотров вчера</h3><p style="padding:0px 2px">&#9642;&nbsp;<a title="погода в Минске" href="/3h/26850">Погода в Минске</a> <sup  title='просмотров за последние 24 часа'>18035</sup><br>
+&#9642;&nbsp;<a title="погода в Гомеле" href="/3h/33041">Погода в Гомеле</a> <sup  title='просмотров за последние 24 часа'>6662</sup><br>
+&#9642;&nbsp;<a title="погода в Бресте" href="/3h/33008">Погода в Бресте</a> <sup  title='просмотров за последние 24 часа'>6037</sup><br>
+&#9642;&nbsp;<a title="погода в Гродно" href="/3h/26825">Погода в Гродно</a> <sup  title='просмотров за последние 24 часа'>5359</sup><br>
+&#9642;&nbsp;<a title="погода в Витебске" href="/3h/26666">Погода в Витебске</a> <sup  title='просмотров за последние 24 часа'>4721</sup><br>
+&#9642;&nbsp;<a title="погода в Могилёве" href="/3h/26863">Погода в Могилёве</a> <sup  title='просмотров за последние 24 часа'>3717</sup><br>
+&#9642;&nbsp;<a title="погода в Пинске" href="/3h/33019">Погода в Пинске</a> <sup  title='просмотров за последние 24 часа'>3353</sup><br>
+&#9642;&nbsp;<a title="погода в Барановичах" href="/3h/26941">Погода в Барановичах</a> <sup  title='просмотров за последние 24 часа'>2787</sup><br>
+&#9642;&nbsp;<a title="погода в Лиде" href="/3h/26832">Погода в Лиде</a> <sup  title='просмотров за последние 24 часа'>2394</sup><br>
+&#9642;&nbsp;<a title="погода в Бобруйске" href="/3h/26961">Погода в Бобруйске</a> <sup title='просмотров за последние 24 часа'>2131</sup><br>
+</p><p style="font: bold 9pt Arial; margin: 2px 2px;"><a href="javascript:openLink();" id="a_link" title="Еще 10 популярных городов вчера" style="cursor:pointer; color:#000;">&nbsp;[+] И еще 10...</a></p><p id="div_link" style="display:none; font: normal 8pt Arial; padding: 0px 25px;">&#9642;&nbsp;<a href="/3h/33036">Погода в Мозыре</a> <sup>1800</sup><br>
+&#9642;&nbsp;<a href="/3h/26759">Погода в Борисове</a> <sup>1616</sup><br>
+&#9642;&nbsp;<a href="/3h/26763">Погода в Орше</a> <sup>1543</sup><br>
+&#9642;&nbsp;<a href="/3h/26003">Погода в Солигорске</a> <sup>1510</sup><br>
+&#9642;&nbsp;<a href="/3h/26001">Погода в Молодечно</a> <sup>1384</sup><br>
+&#9642;&nbsp;<a href="/3h/26653">Погода в Полоцке</a> <sup>1318</sup><br>
+&#9642;&nbsp;<a href="/3h/26951">Погода в Слуцке</a> <sup>1223</sup><br>
+&#9642;&nbsp;<a href="/3h/26030">Погода в Новополоцке</a> <sup>1098</sup><br>
+&#9642;&nbsp;<a href="/3h/26010">Погода в Кобрине</a> <sup>1039</sup><br>
+&#9642;&nbsp;<a href="/3h/26966">Погода в Жлобине</a> <sup>1035</sup><br>
+&#9642;&nbsp;<a href="/3h/26923">Погода в Волковыске</a> <sup>965</sup><br>
+&#9642;&nbsp;<a href="/3h/26745">Погода в Вилейке</a> <sup>956</sup><br>
+&#9642;&nbsp;<a href="/3h/26929">Погода в Пружанах</a> <sup>855</sup><br>
+&#9642;&nbsp;<a href="/3h/26938">Погода в Ивацевичах</a> <sup>849</sup><br>
+&#9642;&nbsp;<a href="/3h/26005">Погода в Слониме</a> <sup>842</sup><br>
+</p>			<div align="right" class="HR">&nbsp;<a href="/search/">&#8594; ВСЕ ГОРОДА</a>&nbsp;</div>
+
+				<!-- блок баннеров №65-II прокси //-->
+				<div style="border:0; font: normal 8pt Arial; background: #f3f5f8; margin:2px; padding:2px;"><!-- ЯД -->
+<div id="y65-l"></div>
+<script type="text/javascript">
+(function(w, d, n, s, t) {
+    w[n] = w[n] || [];
+    w[n].push(function() {
+        Ya.Direct.insertInto(109783, "y65-l", {
+            ad_format: "direct",
+            font_size: 0.8,
+            type: "flat",
+            limit: 1,
+            title_font_size: 0.9,
+            links_underline: false,
+            site_bg_color: "F2F2F2",
+            header_bg_color: "",
+            title_color: "0066FF",
+            url_color: "006600",
+            text_color: "555555",
+            hover_color: "0066FF",
+            sitelinks_color: "0000CC",
+            favicon: true,
+            no_sitelinks: true
+        });
+    });
+    t = d.getElementsByTagName("script")[0];
+    s = d.createElement("script");
+    s.src = "//an.yandex.ru/system/context.js";
+    s.type = "text/javascript";
+    s.async = true;
+    t.parentNode.insertBefore(s, t);
+})(window, document, "yandex_context_callbacks");
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- POGODA.BY -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:234px;height:90px;"
+     data-ad-client="ca-pub-9314660023585594"
+     data-ad-slot="7470656264"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div class="lHR" style="margin:-10px 0 0 0;">&nbsp;</div>				<!-- блок баннеров №65 блок баннеров конец //-->
+
+				<!-- Метеокарты -->
+		  	<h3>Метеокарты</h3>
+			<div class="Text">&#9642; <strong>Карлсруэ</strong>, <a title="Графический прогноз на 5 дней" target="_blank" href="/get/?q=meteogramm&amp;city=10727">метеограмма</a> <br>
+<!-- &#9642; <a title="Карта прогноза энергии неустойчивости" target="_blank" href="/get?q=17">Карта прогноза гроз</a> <sup style='color:red;'></sup><br>   -->
+<!-- &#9642; <a title="Карта снежного покрова" target="_blank" href="/get?q=15">Карта снежного покрова</a>. Запад СНГ<br>-->
+&#9642; <a title="Карта порывов ветра" target="_blank" href="/get/?q=wind_map">Карта порывов ветра</a>. Запад СНГ<br>
+&#9642; <a title="Карта максимальной температуры воздуха" target="_blank" href="/get/?q=max_temperature">Максимальная температура в Беларуси</a><br>
+&#9642; <a title="Карта минимальной температуры воздуха" target="_blank" href="/get/?q=min_temperature">Минимальная температура в Беларуси</a><br>
+&#9642; <a title="Карта прогноза температуры на 12 ч" target="_blank" href="/get/?q=10">Прогноз температуры воздуха</a><br>
+&#9642; <a title="Карта прогноза осадков на 12 ч" target="_blank" href="/get/?q=11">Карта прогноза осадков</a><br>
+&#9642; <a title="Карта прогноза скорости и направления ветра на 12 ч" target="_blank" href="/get/?q=12">Карта прогноза ветра</a><br>
+&#9642; <a title="Карта прогноза облачности среднего яруса 12 ч" target="_blank" href="/get/?q=13">Карта прогноза облачности</a><br>
+&#9642; <a title="Карта относительной топографии. Прогноз на 12 ч" target="_blank" href="/get/?q=16">Карта прогноза OT500/1000</a><br>
+&#9642; <a title="Карта АТ850. Прогноз на 12 ч" target="_blank" href="/get/?q=7">Карта прогноза AT850</a><br>
+&#9642; <a title="Карта температуры моря. Европа, Африка" target="_blank" href="/get/?q=14">Температура моря</a>. Европа, Африка<br></div>
+   			</div>
+
+		  <div class="clearing">&nbsp;</div>
+		</div>
+
+		<div id="footer">
+		<p id=M6></p>
+		<a href='mailTo:master@pogoda.by' title='Электропочта'><img src='../img2/post.gif' width='16' height='11' border='0' alt='написать POGODA.BY'></a>&nbsp;<a href='/get/?q=pogoda.by&amp;city=10727' title='POGODA.BY'>POGODA.BY</a>&nbsp;© 2008-2015&nbsp;<noindex>
+<!--LiveInternet counter-->
+<script type="text/javascript">
+<!--
+document.write('<a href="http://www.liveinternet.ru/click" '+
+'target=_blank><img src="http://counter.yadro.ru/hit?t26.11;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';'+Math.random()+
+'" alt="" title="LiveInternet:" '+
+'border=0 width=88 height=15><\/a>')//-->
+</script>
+<!--/LiveInternet-->
+
+
+<!-- Akavita counter code -->
+<a rel="nofollow" target="_blank" href="http://adlik.akavita.com/bin/link?id=4521">
+<script type="text/javascript">
+<!--
+d=document;w=window;n=navigator;d.cookie="cc=1";
+r=''+escape(d.referrer);js=10;c=(d.cookie)?1:0;j=0;
+x=Math.random();u=''+escape(w.location.href);lt=0;
+h=history.length;t=new Date;f=(self!=top)?1:0;cd=0;
+tz=t.getTimezoneOffset();cpu=n.cpuClass;ww=wh=ss=0;
+//--></script>
+      <script language="javascript1.1"><!--
+js=11;j=(n.javaEnabled()?1:0);
+//--></script>
+<script language="javascript1.2"><!--
+js=12;lt=1;s=screen;ss=s.width;
+cd=(s.colorDepth?s.colorDepth:s.pixelDepth);
+//--></script>
+      <script language="javascript1.3"><!--
+js=13;wh=w.innerHeight;ww=w.innerWidth;
+wh=(wh?wh:d.documentElement.offsetHeight);
+ww=(ww?ww:d.documentElement.offsetWidth);
+//--></script>
+<script type="text/javascript"><!--
+q='lik?id=4521&d='+u+'&r='+r+'&h='+h+'&f='+f;
+q+='&c='+c+'&tz='+tz+'&cpu='+cpu+'&js='+js+'&wh='+wh;
+q+='&ww='+ww+'&ss='+ss+'&cd='+cd+'&j='+j+'&x='+x;
+d.write('<img src="http://adlik.akavita.com/bin/'+
+q+'" alt="Akavita" '+
+'border=0 width=1 height=1>');
+if(lt){d.write('<'+'!-- ');}//--></script>
+<noscript><img src="http://adlik.akavita.com/bin/lik?id=4521"
+border=0 height=1 width=1 alt="Akavita" hspace="3"></noscript>
+<script type="text/javascript">
+<!--
+if(lt){d.write('--'+'>');}//-->
+</script>
+</a>
+<!--/Akavita-->
+
+<!-- (C)2000-2015 / pogoda.by / Home Page -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = 'nSBLcnskkL5RSUUZbpZKCpYUfXVRz8dzBkCatGA7llz.B7';
+// lines below shouldn't be edited
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+gt.setAttribute('defer','defer'); gt.src=l+'://gaby.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+//--><!]]>
+</script>
+<!-- /gemiusAudience -->
+</noindex>&nbsp;
+		&#155;		</div>
+<!-- cover -->
+</div>
+</body>
+</html>
+
+

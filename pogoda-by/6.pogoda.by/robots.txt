@@ -1,0 +1,6 @@
+User-agent:  *
+Disallow: /rss/
+Disallow: /css/
+Disallow: /swf/*.swf
+Disallow: /img2/
+Disallow: /img/
