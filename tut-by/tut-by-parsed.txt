@@ -1,0 +1,1065 @@
+Got page OK: 125480
+---
+Number:	1
+ID	291013
+Date:	2012-05-24 23:16:00
+Link:	http://help.blog.tut.by/2012/05/24/eduard-vernulsya-s-lecheniya-2300-nuzhno-doplatit/
+Title:	Эдуард вернулся с лечения – $ 2300 нужно доплатить!
+Views:	11
+Cat:	ОтКлик
+---
+Number:	2
+ID	187162
+Date:	2012-05-24 08:38:00
+Link:	http://www.velvet.by/
+Title:	Интервью с женой священника о православной кухне. Сегодня на Velvet.by
+Views:	10
+Cat:	Новости компаний
+---
+Number:	3
+ID	290624
+Date:	2012-05-24 08:00:00
+Link:	http://help.blog.tut.by/2012/05/23/esli-myi-pomozhem-aleksandr-snova-smozhet-hodit/
+Title:	Если мы поможем – Александр снова сможет ходить!
+Views:	10
+Cat:	ОтКлик
+---
+Number:	4
+ID	187158
+Date:	2012-05-24 08:48:00
+Link:	http://rebenok.by/articles/health/diet/~id=15137
+Title:	Худеем перед отпуском. Читайте на Ребенок.BY
+Views:	31
+Cat:	Новости компаний
+---
+Number:	5
+ID	290979
+Date:	2012-05-24 18:37:00
+Link:	http://news.tut.by/society/290979.html
+Title:	На поддержку талантливой молодежи спецфонд президента получит в 2012 году 1,4 млрд рублей
+Views:	1558
+Cmnt:	4
+Cat:	Общество
+---
+Number:	6
+ID	187160
+Date:	2012-05-24 08:44:00
+Link:	http://news.tut.by/press/187160.html
+Title:	Встречай лето с часами Swatch! Выиграй тур от Tez Tour!
+Views:	1067
+Cat:	Новости компаний
+---
+Number:	7
+ID	290959
+Date:	2012-05-24 17:36:00
+Link:	http://news.tut.by/culture/290959.html
+Title:	Главному дирижеру Большого театра передали орден от Януковича
+Views:	2327
+Cat:	Культура
+---
+Number:	8
+ID	187157
+Date:	2012-05-24 08:46:00
+Link:	http://news.tut.by/press/187157.html
+Title:	Управление конфликтами в коллективе. Отработайте теорию на практике
+Views:	1255
+Cat:	Новости компаний
+---
+Number:	9
+ID	290882
+Date:	2012-05-24 14:16:00
+Link:	http://sport.tut.by/news/football/290882.html
+Title:	Назван победитель отборочного тура КНД - 2012 в Могилеве
+Views:	2257
+Cat:	Спорт
+---
+Number:	10
+ID	187163
+Date:	2012-05-24 08:40:00
+Link:	http://news.tut.by/press/187163.html
+Title:	90-60-90. Идеальные, заветные… уютные
+Views:	1531
+Cat:	Новости компаний
+---
+Number:	11
+ID	291002
+Date:	2012-05-24 21:32:00
+Link:	http://news.tut.by/culture/291002.html
+Title:	Аноним заподозрил Шекспира и московский Музыкальный театр в пропаганде эротики и педофилии
+Views:	3887
+Cmnt:	8
+Cat:	Культура
+---
+Number:	12
+ID	290918
+Date:	2012-05-24 15:27:00
+Link:	http://news.tut.by/politics/290918.html
+Title:	Мясникович в Ашхабаде встретится с Бердымухамедовым
+Views:	2956
+Cmnt:	5
+Cat:	Политика
+---
+Number:	13
+ID	290791
+Date:	2012-05-24 10:26:00
+Link:	http://news.tut.by/politics/290791.html
+Title:	Лукашенко встретится с министром иностранных дел Бангладеш Дипу Мони
+Views:	2019
+Cmnt:	6
+Cat:	Политика
+---
+Number:	14
+ID	290996
+Date:	2012-05-24 21:07:00
+Link:	http://news.tut.by/society/290996.html
+Title:	Проект "Минск экскурсионный" планируется реализовать в столице на базе автобусного маршрута №1
+Views:	4090
+Cat:	Минск
+---
+Number:	15
+ID	290986
+Date:	2012-05-24 19:29:00
+Link:	http://news.tut.by/health/290986.html
+Title:	ВОЗ может объявить чрезвычайную ситуацию в связи с недавними вспышками полиомиелита
+Views:	3969
+Cmnt:	5
+Cat:	Красота и здоровье
+---
+Number:	16
+ID	290944
+Date:	2012-05-24 16:50:00
+Link:	http://news.tut.by/society/290944.html
+Title:	Тарифы на проезд в пассажирских поездах по Беларуси повышать не будут
+Views:	3458
+Cmnt:	11
+Cat:	Общество
+---
+Number:	17
+ID	290885
+Date:	2012-05-24 14:28:00
+Link:	http://sport.tut.by/news/hockey/290885.html
+Title:	МИД Беларуси предпримет все необходимое для комфортного приезда иностранцев на ЧМ-2014
+Views:	3184
+Cmnt:	7
+Cat:	Спорт
+---
+Number:	18
+ID	291003
+Date:	2012-05-24 21:39:00
+Link:	http://news.tut.by/kaleidoscope/291003.html
+Title:	Лосята, которых приютила семья на Пинщине, попали в Беловежскую пущу
+Views:	5085
+Cmnt:	4
+Cat:	Калейдоскоп
+---
+Number:	19
+ID	290943
+Date:	2012-05-24 22:50:00
+Link:	http://42.tut.by/290943
+Title:	На олимпиаде по сетевым технологиям в Москве студент из Гомеля занял второе место
+Views:	5449
+Cat:	42
+---
+Number:	20
+ID	187159
+Date:	2012-05-24 08:42:00
+Link:	http://news.tut.by/press/187159.html
+Title:	Разыскиваются кадровики!
+Views:	2152
+Cat:	Новости компаний
+---
+Number:	21
+ID	290912
+Date:	2012-05-24 15:25:00
+Link:	http://news.tut.by/politics/290912.html
+Title:	Лукашенко уверен, что "Бангладеш с удовольствием через Беларусь найдет прямой путь в Европу"
+Views:	4065
+Cmnt:	51
+Cat:	Политика
+---
+Number:	22
+ID	290770
+Date:	2012-05-24 09:25:00
+Link:	http://news.tut.by/kaleidoscope/290770.html
+Title:	Принц Чарльз попробовал себя в роли диджея
+Views:	2511
+Cat:	Калейдоскоп
+---
+Number:	23
+ID	290984
+Date:	2012-05-24 19:11:00
+Link:	http://news.tut.by/world/290984.html
+Title:	МИД Ирака: даны указания освободить байкеров из РФ
+Views:	5561
+Cmnt:	12
+Cat:	В мире
+---
+Number:	24
+ID	290812
+Date:	2012-05-24 10:46:00
+Link:	http://news.tut.by/world/290812.html
+Title:	Лидеры ЕС хотят не допустить выхода Греции из еврозоны
+Views:	3159
+Cmnt:	3
+Cat:	В мире
+---
+Number:	25
+ID	291010
+Date:	2012-05-24 22:52:00
+Link:	http://news.tut.by/economics/291010.html
+Title:	Первое антидемпинговое расследование Таможенного союза: с подачи России введены пошлины на полимерный металлопрокат из Китая
+Views:	6766
+Cmnt:	11
+Cat:	Экономика и бизнес
+---
+Number:	26
+ID	290922
+Date:	2012-05-24 15:53:00
+Link:	http://news.tut.by/society/290922.html
+Title:	В Минске задержан правозащитник Олег Волчек
+Views:	4751
+Cmnt:	30
+Cat:	Общество
+---
+Number:	27
+ID	290877
+Date:	2012-05-24 13:49:00
+Link:	http://news.tut.by/world/290877.html
+Title:	AI: Права человека нарушаются во всех странах бывшего СССР
+Views:	4138
+Cmnt:	76
+Cat:	В мире
+---
+Number:	28
+ID	290811
+Date:	2012-05-24 10:52:00
+Link:	http://news.tut.by/economics/290811.html
+Title:	Делегация Беларуси оказала в Лондоне поддержку суверенным еврооблигациям и рейтингам
+Views:	3380
+Cmnt:	5
+Cat:	Экономика и бизнес
+---
+Number:	29
+ID	290936
+Date:	2012-05-24 17:01:00
+Link:	http://news.tut.by/kaleidoscope/290936.html
+Title:	IQ 48: "Беларусы як бульбачкі: трымаемся разам, апранаемся несамавіта, але смачныя і светлыя ўнутры!"
+Views:	5351
+Cat:	Калейдоскоп
+---
+Number:	30
+ID	291004
+Date:	2012-05-24 22:02:00
+Link:	http://news.tut.by/society/291004.html
+Title:	Правозащитник Олег Волчек получил девять суток за нецензурную брань
+Views:	6974
+Cmnt:	149
+Cat:	Общество
+---
+Number:	31
+ID	290830
+Date:	2012-05-24 11:48:00
+Link:	http://news.tut.by/accidents/290830.html
+Title:	Задержанных в Ираке байкеров из России обвиняют в шпионаже
+Views:	3837
+Cmnt:	7
+Cat:	Происшествия
+---
+Number:	32
+ID	290867
+Date:	2012-05-24 13:29:00
+Link:	http://news.tut.by/society/290867.html
+Title:	Беларусь повторно предложила Литве обсудить строительство Висагинской АЭС
+Views:	4603
+Cmnt:	13
+Cat:	Общество
+---
+Number:	33
+ID	290805
+Date:	2012-05-24 16:26:00
+Link:	http://news.tut.by/kaleidoscope/290805.html
+Title:	По мнению журналистов, у Litesound есть неплохие шансы выйти в финал
+Views:	5637
+Cmnt:	12
+Cat:	Калейдоскоп
+---
+Number:	34
+ID	290813
+Date:	2012-05-24 11:09:00
+Link:	http://42.tut.by/290813
+Title:	Yahoo выпустила собственный веб-браузер Axis
+Views:	3827
+Cat:	42
+---
+Number:	35
+ID	290909
+Date:	2012-05-24 15:17:00
+Link:	http://news.tut.by/culture/290909.html
+Title:	В прокат выходит фильм "Люди в черном 3"
+Views:	5856
+Cmnt:	4
+Cat:	Культура
+---
+Number:	36
+ID	290758
+Date:	2012-05-24 08:27:00
+Link:	http://news.tut.by/culture/290758.html
+Title:	Православные святыни разных стран появятся на голограммах
+Views:	3250
+Cat:	Культура
+---
+Number:	37
+ID	290840
+Date:	2012-05-24 12:30:00
+Link:	http://news.tut.by/society/290840.html
+Title:	В Беларуси курит каждый второй мужчина и каждая десятая женщина
+Views:	4892
+Cmnt:	100
+Cat:	Общество
+---
+Number:	38
+ID	290964
+Date:	2012-05-24 17:41:00
+Link:	http://news.tut.by/society/290964.html
+Title:	БЖД с 27 мая устанавливает новый график движения поездов и вводит поезд Минск - Алматы
+Views:	7274
+Cat:	Общество
+---
+Number:	39
+ID	290838
+Date:	2012-05-24 12:18:00
+Link:	http://news.tut.by/hotline/290838.html
+Title:	Почему задерживается капремонт?
+Views:	5151
+Cmnt:	9
+Cat:	Горячая линия
+---
+Number:	40
+ID	290757
+Date:	2012-05-24 08:07:00
+Link:	http://news.tut.by/health/290757.html
+Title:	ВОЗ предупреждает о новых вспышках полиомиелита в мире
+Views:	3444
+Cmnt:	3
+Cat:	Красота и здоровье
+---
+Number:	41
+ID	290771
+Date:	2012-05-24 09:28:00
+Link:	http://news.tut.by/politics/290771.html
+Title:	Лукашенко поздравил патриарха Кирилла с днем тезоименитства
+Views:	4113
+Cmnt:	20
+Cat:	Политика
+---
+Number:	42
+ID	290870
+Date:	2012-05-24 13:31:00
+Link:	http://news.tut.by/society/290870.html
+Title:	Самую крупную за последние несколько лет партию боеприпасов нашли на Витебщине
+Views:	6035
+Cat:	Общество
+---
+Number:	43
+ID	290818
+Date:	2012-05-24 10:55:00
+Link:	http://auto.tut.by/news/exclusive/290818.html
+Title:	Задай вопрос лучшему механику Европы!
+Views:	4875
+Cmnt:	11
+Cat:	Авто
+---
+Number:	44
+ID	290991
+Date:	2012-05-24 20:17:00
+Link:	http://news.tut.by/sport/290991.html
+Title:	Хоккейная команда Лукашенко выиграла у Внешэкономбанка, пять шайб на счету Павла Белого
+Views:	9147
+Cmnt:	45
+Cat:	Спорт
+---
+Number:	45
+ID	290947
+Date:	2012-05-24 16:56:00
+Link:	http://news.tut.by/society/290947.html
+Title:	Избитого милицией Андрея Молчана могут выписать из больницы
+Views:	7763
+Cmnt:	69
+Cat:	Общество
+---
+Number:	46
+ID	291011
+Date:	2012-05-24 23:16:00
+Link:	http://news.tut.by/world/291011.html
+Title:	Украина: депутаты Рады подрались из-за закона о языке
+Views:	10696
+Cmnt:	72
+Cat:	В мире
+---
+Number:	47
+ID	290869
+Date:	2012-05-24 13:31:00
+Link:	http://news.tut.by/society/290869.html
+Title:	Минчанин пытался вывезти в Россию 56 тысяч пачек сигарет
+Views:	6354
+Cmnt:	15
+Cat:	Общество
+---
+Number:	48
+ID	290893
+Date:	2012-05-24 14:43:00
+Link:	http://news.tut.by/world/290893.html
+Title:	"Евровидение": в Азербайджане задержали демонстрантов
+Views:	6970
+Cmnt:	21
+Cat:	В мире
+---
+Number:	49
+ID	290866
+Date:	2012-05-24 13:25:00
+Link:	http://news.tut.by/auto/290866.html
+Title:	Брест в ожидании международного слета байкеров
+Views:	6468
+Cat:	Авто
+---
+Number:	50
+ID	290983
+Date:	2012-05-24 18:58:00
+Link:	http://news.tut.by/tv/290983.html
+Title:	Без ответов. Эвтаназия: "хорошая смерть" или узаконенное убийство?
+Views:	9476
+Cmnt:	42
+Cat:	TUT.BY-ТВ
+---
+Number:	51
+ID	290994
+Date:	2012-05-24 21:01:00
+Link:	http://news.tut.by/it/290994.html
+Title:	Биологи раскрыли секрет вкуса помидоров, выращенных в собственном саду
+Views:	10548
+Cmnt:	5
+Cat:	42
+---
+Number:	52
+ID	290931
+Date:	2012-05-24 16:15:00
+Link:	http://auto.tut.by/news/road/290931.html
+Title:	Минтранс: У всех таксистов-нелегалов надо обязательно конфисковывать автомобили
+Views:	8228
+Cmnt:	38
+Cat:	Авто
+---
+Number:	53
+ID	290913
+Date:	2012-05-24 15:26:00
+Link:	http://news.tut.by/economics/290913.html
+Title:	Приватизация может стать способом решения проблемы пенсионного фонда
+Views:	8091
+Cmnt:	17
+Cat:	Экономика и бизнес
+---
+Number:	54
+ID	290948
+Date:	2012-05-24 16:59:00
+Link:	http://news.tut.by/society/290948.html
+Title:	Калектыў Медуніверсітэта прапануе перайменаваць станцыю метро
+Views:	9006
+Cmnt:	169
+Cat:	Минск
+---
+Number:	55
+ID	290759
+Date:	2012-05-24 08:37:00
+Link:	http://news.tut.by/society/290759.html
+Title:	Што будзем рабіць са смеццеправодамі?
+Views:	4612
+Cmnt:	34
+Cat:	Общество
+---
+Number:	56
+ID	290828
+Date:	2012-05-24 11:44:00
+Link:	http://news.tut.by/politics/290828.html
+Title:	МИД: Опасения США относительно Кредэксбанка нуждаются в проверке
+Views:	6382
+Cmnt:	28
+Cat:	Политика
+---
+Number:	57
+ID	290876
+Date:	2012-05-24 13:50:00
+Link:	http://42.tut.by/290876
+Title:	Касперская: Политическая ситуация в Беларуси удобна для российских IT-разработчиков
+Views:	7883
+Cmnt:	5
+Cat:	42
+---
+Number:	58
+ID	290888
+Date:	2012-05-24 14:37:00
+Link:	http://news.tut.by/health/290888.html
+Title:	Кесарево сечение удваивает риск детского ожирения
+Views:	8392
+Cmnt:	9
+Cat:	Красота и здоровье
+---
+Number:	59
+ID	290892
+Date:	2012-05-24 14:45:00
+Link:	http://news.tut.by/economics/290892.html
+Title:	Кризис и санкции не отбили у Bosch желания работать с Беларусью, но размещать производство немцы не спешат
+Views:	8963
+Cmnt:	18
+Cat:	Экономика и бизнес
+---
+Number:	60
+ID	290843
+Date:	2012-05-24 12:31:00
+Link:	http://news.tut.by/society/290843.html
+Title:	Посольство Беларуси в РФ окажет помощь в связи с гибелью велогонщицы Жук
+Views:	7703
+Cat:	Общество
+---
+Number:	61
+ID	290799
+Date:	2012-05-24 10:31:00
+Link:	http://news.tut.by/society/290799.html
+Title:	Движение транспорта Минска в районе улицы Суражская изменяется 26 мая - 2 июня
+Views:	6524
+Cat:	Минск
+---
+Number:	62
+ID	290763
+Date:	2012-05-24 08:52:00
+Link:	http://news.tut.by/finance/290763.html
+Title:	Старшыня праўлення ААТ "ААБ Беларусбанк": "Хіба можна шкадаваць грошай?"
+Views:	5547
+Cat:	Финансы
+---
+Number:	63
+ID	290982
+Date:	2012-05-24 18:52:00
+Link:	http://news.tut.by/society/290982.html
+Title:	Яркие экраны вдоль проспекта не дают людям спать и провоцируют ДТП?
+Views:	11883
+Cmnt:	59
+Cat:	Минск
+---
+Number:	64
+ID	290756
+Date:	2012-05-24 07:53:00
+Link:	http://news.tut.by/world/290756.html
+Title:	США провели кибератаку на сайт "Аль-Каиды" в Йемене
+Views:	5043
+Cmnt:	12
+Cat:	В мире
+---
+Number:	65
+ID	290950
+Date:	2012-05-24 17:04:00
+Link:	http://news.tut.by/society/290950.html
+Title:	Движение транспорта по улице Есенина закроют на неделю позже – 3 июня
+Views:	11559
+Cmnt:	13
+Cat:	Минск
+---
+Number:	66
+ID	290925
+Date:	2012-05-24 15:56:00
+Link:	http://news.tut.by/world/290925.html
+Title:	В Молдове вопреки воле президента узаконили кастрацию педофилов
+Views:	10863
+Cmnt:	47
+Cat:	В мире
+---
+Number:	67
+ID	290862
+Date:	2012-05-24 15:00:00
+→	2012-05-31 17:43:00
+Link:	http://42.tut.by/290862
+Title:	Белорусскому киберсквоттеру грозит до пяти лет лишения свободы
+Views:	10556
+Cmnt:	32
+Cat:	42
+---
+Number:	68
+ID	290755
+Date:	2012-05-24 07:04:00
+Link:	http://news.tut.by/health/290755.html
+Title:	Почему инициативы, касающиеся здорового питания, не находят поддержки у государства?
+Views:	4998
+Cmnt:	11
+Cat:	Красота и здоровье
+---
+Number:	69
+ID	290680
+Date:	2012-05-24 09:00:00
+Link:	http://news.tut.by/economics/290680.html
+Title:	Предприниматели хотят открывать кафе и образовательные центры
+Views:	6938
+Cmnt:	4
+Cat:	Экономика и бизнес
+---
+Number:	70
+ID	290905
+Date:	2012-05-24 15:12:00
+Link:	http://news.tut.by/politics/290905.html
+Title:	Лукашенко – Мартынову: "Мы ждем конкретных шагов от Запада, Европейского союза"
+Views:	11976
+Cmnt:	184
+Cat:	Политика
+---
+Number:	71
+ID	290974
+Date:	2012-05-24 17:53:00
+Link:	http://news.tut.by/world/290974.html
+Title:	Украина оценила убытки от запуска "Северного потока"
+Views:	14097
+Cmnt:	38
+Cat:	В мире
+---
+Number:	72
+ID	290928
+Date:	2012-05-24 16:05:00
+Link:	http://auto.tut.by/news/offtop/290928.html
+Title:	Ребенок на игрушечном авто заехал в центр оживленного перекрестка в Китае
+Views:	12817
+Cat:	Авто
+---
+Number:	73
+ID	290857
+Date:	2012-05-24 13:03:00
+Link:	http://news.tut.by/politics/290857.html
+Title:	МИД Польши обеспокоен планами по организации русскоязычных классов в польской школе в Гродно
+Views:	10714
+Cmnt:	446
+Cat:	Политика
+---
+Number:	74
+ID	290875
+Date:	2012-05-24 13:53:00
+Link:	http://news.tut.by/economics/290875.html
+Title:	Бизнес в Беларуси: угрозы-2012. Кризис еврозоны
+Views:	11431
+Cmnt:	5
+Cat:	Экономика и бизнес
+---
+Number:	75
+ID	290952
+Date:	2012-05-24 17:09:00
+Link:	http://news.tut.by/auto/290952.html
+Title:	Авария на кольцевой: Opel пытался объехать коробку и въехал в "МАЗ"
+Views:	15035
+Cmnt:	22
+Cat:	Авто
+---
+Number:	76
+ID	290960
+Date:	2012-05-24 17:22:00
+Link:	http://auto.tut.by/news/accidents/290960.html
+Title:	На Орловской "ГАЗ" столкнулся со столбом
+Views:	15399
+Cmnt:	4
+Cat:	Авто
+---
+Number:	77
+ID	290987
+Date:	2012-05-24 19:35:00
+Link:	http://news.tut.by/society/290987.html
+Title:	Какой должна быть температура в офисе?
+Views:	17532
+Cmnt:	8
+Cat:	Общество
+---
+Number:	78
+ID	290929
+Date:	2012-05-24 16:12:00
+Link:	http://news.tut.by/society/290929.html
+Title:	КГБ раскрыл схему нелегальных поставок газовых котлов
+Views:	15430
+Cmnt:	29
+Cat:	Общество
+---
+Number:	79
+ID	290777
+Date:	2012-05-24 09:53:00
+Link:	http://news.tut.by/kaleidoscope/290777.html
+Title:	Самые известные часы Минска
+Views:	9710
+Cmnt:	3
+Cat:	Минск
+---
+Number:	80
+ID	290973
+Date:	2012-05-24 17:53:00
+Link:	http://news.tut.by/kaleidoscope/290973.html
+Title:	Litesound перед полуфиналом: "Никакой драки не было, и на Sinplus мы совсем не похожи!"
+Views:	17716
+Cmnt:	21
+Cat:	Калейдоскоп
+---
+Number:	81
+ID	290865
+Date:	2012-05-24 13:01:00
+Link:	http://news.tut.by/economics/290865.html
+Title:	На базе ОАО "Бабушкина крынка" будет создан первый крупный молочный холдинг
+Views:	13383
+Cmnt:	17
+Cat:	Экономика и бизнес
+---
+Number:	82
+ID	290794
+Date:	2012-05-24 10:23:00
+Link:	http://news.tut.by/economics/290794.html
+Title:	Уго Чавес дистанционно открыл белорусско-венесуэльский тракторный завод
+Views:	10709
+Cmnt:	23
+Cat:	Экономика и бизнес
+---
+Number:	83
+ID	290768
+Date:	2012-05-24 09:12:00
+Link:	http://news.tut.by/world/290768.html
+Title:	Навальный: тысячи людей готовы выразить свой протест
+Views:	9575
+Cmnt:	101
+Cat:	В мире
+---
+Number:	84
+ID	290807
+Date:	2012-05-24 10:41:00
+Link:	http://news.tut.by/society/290807.html
+Title:	Могилевчанка более трех лет получала пособие на детей по поддельной справке
+Views:	11365
+Cmnt:	4
+Cat:	Общество
+---
+Number:	85
+ID	290824
+Date:	2012-05-24 11:38:00
+Link:	http://news.tut.by/society/290824.html
+Title:	Бывший милиционер в форменной одежде вымогал деньги у минчан
+Views:	12755
+Cmnt:	38
+Cat:	Общество
+---
+Number:	86
+ID	290772
+Date:	2012-05-24 09:30:00
+Link:	http://news.tut.by/society/290772.html
+Title:	В белорусских ПТУ – недобор
+Views:	10884
+Cmnt:	66
+Cat:	Общество
+---
+Number:	87
+ID	290773
+Date:	2012-05-24 09:29:00
+Link:	http://news.tut.by/society/290773.html
+Title:	Православные празднуют Вознесение Господне
+Views:	11113
+Cmnt:	4
+Cat:	Общество
+---
+Number:	88
+ID	290804
+Date:	2012-05-24 10:36:00
+Link:	http://news.tut.by/kaleidoscope/290804.html
+Title:	Автор книги "Свободные от детей": "Я бездетна, свободна и счастлива"
+Views:	12603
+Cmnt:	574
+Cat:	Калейдоскоп
+---
+Number:	89
+ID	290822
+Date:	2012-05-24 11:29:00
+Link:	http://news.tut.by/kaleidoscope/290822.html
+Title:	Дмитрий Колдун объявит результаты голосования Беларуси на "Евровидении"
+Views:	15094
+Cmnt:	7
+Cat:	Калейдоскоп
+---
+Number:	90
+ID	290946
+Date:	2012-05-24 16:24:00
+Link:	http://news.tut.by/hotline/290946.html
+Title:	Из Пинска в Минск за 45 минут. Ностальгия по пинскому аэропорту
+Views:	22246
+Cmnt:	25
+Cat:	Горячая линия
+---
+Number:	91
+ID	290935
+Date:	2012-05-24 16:21:00
+Link:	http://news.tut.by/society/290935.html
+Title:	Гастарбайтар з Таджыкістана: У Мінску зарабляю 700 долараў
+Views:	22295
+Cmnt:	81
+Cat:	Общество
+---
+Number:	92
+ID	290776
+Date:	2012-05-24 09:51:00
+Link:	http://news.tut.by/finance/290776.html
+Title:	Средняя зарплата в Минске в апреле достигла 4 млн 174,2 тысячи рублей
+Views:	13797
+Cmnt:	120
+Cat:	Минск
+---
+Number:	93
+ID	290954
+Date:	2012-05-24 17:17:00
+Link:	http://news.tut.by/society/290954.html
+Title:	Любовь Ковалева намерена выяснить, кто является создателем фильма "Метро"
+Views:	25831
+Cmnt:	221
+Cat:	Общество
+---
+Number:	94
+ID	290775
+Date:	2012-05-24 09:45:00
+Link:	http://news.tut.by/economics/290775.html
+Title:	Внеплановая проверка Нацбанка ждет подозреваемый в масштабном отмывании денег Кредэксбанк
+Views:	14673
+Cmnt:	29
+Cat:	Экономика и бизнес
+---
+Number:	95
+ID	291012
+Date:	2012-05-24 22:56:00
+→	2012-05-25 12:52:00
+Link:	http://news.tut.by/hotline/291012.html
+Title:	В Минске бригада реанимации добиралась на вызов полчаса, в скорой говорят что все делалось по инструкции (обновлено)
+Views:	34878
+Cmnt:	208
+Cat:	Горячая линия
+---
+Number:	96
+ID	290920
+Date:	2012-05-24 15:44:00
+Link:	http://news.tut.by/otklik/290920.html
+Title:	Глас народа. "Не нужно оберегать дочерей, а нужно их воспитывать, как положено"
+Views:	24471
+Cmnt:	68
+Cat:	ОтКлик
+---
+Number:	97
+ID	290873
+Date:	2012-05-24 13:37:00
+Link:	http://news.tut.by/health/290873.html
+Title:	Что едят, чем болеют и от чего умирают белорусы
+Views:	22858
+Cmnt:	9
+Cat:	Красота и здоровье
+---
+Number:	98
+ID	290853
+Date:	2012-05-24 12:57:00
+Link:	http://42.tut.by/290853
+Title:	Гомельский предприниматель получил срок за продажу "шпионских" авторучек
+Views:	23306
+Cmnt:	45
+Cat:	42
+---
+Number:	99
+ID	290787
+Date:	2012-05-24 10:18:00
+Link:	http://news.tut.by/world/290787.html
+Title:	В Германии зафиксирована рекордная нехватка специалистов
+Views:	18643
+Cmnt:	96
+Cat:	В мире
+---
+Number:	100
+ID	290874
+Date:	2012-05-24 13:27:00
+Link:	http://news.tut.by/economics/290874.html
+Title:	Эксперт Всемирного банка: К 2020-му году Беларусь может зарабатывать 3-4 млрд долларов на ИТ
+Views:	24524
+Cmnt:	56
+Cat:	Экономика и бизнес
+---
+Number:	101
+ID	290939
+Date:	2012-05-24 16:31:00
+Link:	http://finance.tut.by/news290939.html
+Title:	Беларус ужо прыцэньваўся да пентхаўса за 3,5 мільёна долараў
+Views:	30566
+Cmnt:	43
+Cat:	Финансы
+---
+Number:	102
+ID	290783
+Date:	2012-05-24 11:55:00
+Link:	http://news.tut.by/health/290783.html
+Title:	Какие татуировки предпочитают белорусы?
+Views:	22528
+Cmnt:	43
+Cat:	Красота и здоровье
+---
+Number:	103
+ID	290881
+Date:	2012-05-24 14:16:00
+Link:	http://news.tut.by/economics/290881.html
+Title:	Российский бизнесмен Грешилов продал гомельскую "Линию" "Евроопту"
+Views:	28134
+Cmnt:	21
+Cat:	Экономика и бизнес
+---
+Number:	104
+ID	290942
+Date:	2012-05-24 16:42:00
+Link:	http://news.tut.by/society/290942.html
+Title:	Дагестанца, вероятно, не привлекут к ответственности за ночь с 15-летней белоруской
+Views:	34309
+Cmnt:	255
+Cat:	Общество
+---
+Number:	105
+ID	291014
+Date:	2012-05-24 23:58:00
+→	2012-05-25 00:04:00
+Link:	http://news.tut.by/kaleidoscope/291014.html
+Title:	Litesound пролетел мимо финала "Евровидения"
+Views:	188008
+Cmnt:	746
+Cat:	Калейдоскоп
+---
+Number:	106
+ID	290851
+Date:	2012-05-24 12:56:00
+→	2012-05-24 14:41:00
+Link:	http://news.tut.by/accidents/290851.html
+Title:	Мусорная свалка загорелась в Чижовке
+Views:	27266
+Cmnt:	13
+Cat:	Происшествия
+---
+Number:	107
+ID	290782
+Date:	2012-05-24 11:00:00
+Link:	http://news.tut.by/kaleidoscope/290782.html
+Title:	Где в Минске загадать желание, чтобы оно обязательно сбылось?
+Views:	23786
+Cmnt:	22
+Cat:	Минск
+---
+Number:	108
+ID	290915
+Date:	2012-05-24 15:32:00
+Link:	http://news.tut.by/economics/290915.html
+Title:	Дешевые марки сигарет с 1 июня прибавят в цене 1,5-3,7%
+Views:	34750
+Cmnt:	89
+Cat:	Экономика и бизнес
+---
+Number:	109
+ID	290926
+Date:	2012-05-24 16:05:00
+→	2012-05-24 16:13:00
+Link:	http://news.tut.by/politics/290926.html
+Title:	МИД Беларуси объяснил, как решить проблему с очередями в консульствах Польши
+Views:	39321
+Cmnt:	85
+Cat:	Политика
+---
+Number:	110
+ID	290861
+Date:	2012-05-24 13:15:00
+→	2012-05-24 17:48:00
+Link:	http://news.tut.by/society/290861.html
+Title:	Прощание с велогонщицей Полиной Жук состоится в Бресте 26 мая
+Views:	32510
+Cmnt:	12
+Cat:	Общество
+---
+Number:	111
+ID	290903
+Date:	2012-05-24 15:04:00
+Link:	http://auto.tut.by/news/road/290903.html
+Title:	На Притыцкого в Минске сразу три аварии. Столкнулись 8 машин
+Views:	40474
+Cmnt:	5
+Cat:	Авто
+---
+Number:	112
+ID	290940
+Date:	2012-05-24 16:15:00
+Link:	http://news.tut.by/economics/290940.html
+Title:	Беларусь покинет список "торговых врагов" России после вступления в ВТО?
+Views:	46604
+Cmnt:	86
+Cat:	Экономика и бизнес
+---
+Number:	113
+ID	290740
+Date:	2012-05-24 01:00:00
+Link:	http://news.tut.by/society/290740.html
+Title:	Велопробег "Молодежь России и Беларуси - дорога в будущее Союзного государства" через три дня прибудет в Минск
+Views:	3019
+Cmnt:	10
+Cat:	Минск
+---
+Number:	114
+ID	290816
+Date:	2012-05-24 10:54:00
+Link:	http://auto.tut.by/news/road/290816.html
+Title:	Ночью в Минске на Орловской джип врезался в троллейбус
+Views:	34416
+Cmnt:	25
+Cat:	Авто
+---
+Number:	115
+ID	290823
+Date:	2012-05-24 11:31:00
+Link:	http://news.tut.by/tv/290823.html
+Title:	Советы специалиста: удавка для клеща
+Views:	40843
+Cmnt:	24
+Cat:	TUT.BY-ТВ
+---
+Number:	116
+ID	290815
+Date:	2012-05-24 11:13:00
+→	2012-05-24 12:27:00
+Link:	http://news.tut.by/economics/290815.html
+Title:	На торгах 24 мая Нацбанк помог рублю не упасть к доллару
+Views:	65185
+Cmnt:	41
+Cat:	Экономика и бизнес
+---
+Number:	117
+ID	290736
+Date:	2012-05-24 00:10:00
+Link:	http://news.tut.by/world/290736.html
+Title:	Из-за международных санкций Сирия потеряла 4 млрд долларов
+Views:	2034
+Cmnt:	13
+Cat:	В мире
+---
+Number:	118
+ID	290738
+Date:	2012-05-24 00:19:00
+Link:	http://news.tut.by/world/290738.html
+Title:	Секретная служба США извинилась за секс-скандал в Колумбии
+Views:	7821
+Cmnt:	6
+Cat:	В мире
+---
+Number:	119
+ID	290737
+Date:	2012-05-24 00:15:00
+Link:	http://news.tut.by/world/290737.html
+Title:	Роддом в Алма-Ате закрыли после гибели 60 новорожденных
+Views:	24721
+Cmnt:	41
+Cat:	В мире
+---
+Number:	120
+ID	290735
+Date:	2012-05-24 00:02:00
+Link:	http://news.tut.by/economics/290735.html
+Title:	"Беллегпром" уменьшил вдвое количество убыточных предприятий
+Views:	7289
+Cmnt:	17
+Cat:	Экономика и бизнес
