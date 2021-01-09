@@ -1,0 +1,531 @@
+<div class="post" id="post_136419">
+              <h1 class="title">
+                <a class="post_title" href="http://habrahabr.ru/post/136419/">Восход гео-социальности в играх</a>
+              </h1>
+              <div class="hubs">
+                <a class="hub" href="http://habrahabr.ru/hub/gdev/" title="Вы не подписаны на этот хаб">Game Development</a><span class="profiled_hub" title="Профильный хаб">*</span>
+              </div>
+              <div class="content html_format">
+                Вы уже слышали о разворачивающейся войне за <a href="http://techcrunch.com/2010/02/23/location-based-services-revenue/">рынок в $12.7 миллиардов</a>, в которой Facebook <a href="http://techcrunch.com/2011/08/23/facebook-location-tagging/">проиграл первый раунд</a>? Добро пожаловать в эру гео-социальных сервисов и игр. Этот голубой океан подогревается с одной стороны рекламным рынком — таргетинг рекламы в реальном времени здесь-и-сейчас дает даже больше возможностей, чем информация из профиля в фейсбуке. А с другой стороны активно интересуются гео-социальным рынком большие ритейлеры и маленькие бизнесы, которых не устраивает эффективность существующих маркетинговых каналов.<br />
+                <br />
+                Казалось бы, а при чем тут игры? Но Foursquare, лидер среди чекин-сервисов, быстро вырос в том числе и на игровой механике достижения и удержания статуса «мэра». Гео-социальные игры могут стать точкой самого бурного роста и так переживающей вторую молодость индустрии мобильных развлечений. Для одного из моих личных проектов я делал обзор, которым и хочу с вами поделиться.<br />
+                <p>
+                  <a class="habracut" href="http://habrahabr.ru/post/136419/#habracut">Читать дальше �</a>
+                </p>
+                <div class="clear"></div>
+              </div>
+              <ul class="tags">
+                <li>
+                  <a href="http://habrahabr.ru/search/?q=%5Bcheck-ins%5D&amp;target_type=posts" rel="tag">check-ins</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5Bemerging%5D&amp;target_type=posts" rel="tag">emerging</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5Bgoogle%20maps%5D&amp;target_type=posts" rel="tag">google maps</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5Blocation%20based%5D&amp;target_type=posts" rel="tag">location based</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5Bsocial%5D&amp;target_type=posts" rel="tag">social</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5B%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%5D&amp;target_type=posts" rel="tag">геолокация</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5B%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%B3%D1%80%D1%8B%5D&amp;target_type=posts" rel="tag">социальные игры</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5Bgeo-apps%5D&amp;target_type=posts" rel="tag">geo-apps</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5Bcheckin%5D&amp;target_type=posts" rel="tag">checkin</a>
+                </li>
+              </ul>
+              <div class="infopanel" id="infopanel_post_136419">
+                <div class="voting">
+                  <div class="mark positive">
+                    <span class="score" title="Всего 51: �44 и �7">+37</span>
+                  </div>
+                </div>
+                <div class="published">
+                  17 января 2012, 13:00
+                </div>
+                <div class="favorite">
+                  <a class="guest" href="#" onclick="return false;" title="Только зарегистрированные пользователи могут добавлять посты в избранное"></a>
+                </div>
+                <div class="favs_count" title="Количество пользователей, добавивших пост в избранное">
+                  132
+                </div>
+                <div class="author">
+                  <a href="http://habrahabr.ru/users/wildmandnd/" title="Автор текста">wildmandnd</a> <span class="rating" title="рейтинг пользователя">53,5</span>
+                </div>
+                <div class="comments">
+                  <a href="http://habrahabr.ru/post/136419/#comments" title="Читать комментарии"><span class="all">24</span></a>
+                </div>
+              </div>
+              <div class="clear"></div>
+            </div>
+---------------
+<div class="post" id="post_136392">
+              <h1 class="title">
+                <a class="post_title" href="http://habrahabr.ru/post/136392/">Проблемы инкапсуляции</a>
+              </h1>
+              <div class="hubs">
+                <a class="hub" href="http://habrahabr.ru/hub/programming/" title="Вы не подписаны на этот хаб">Программирование</a><span class="profiled_hub" title="Профильный хаб">*</span>
+              </div>
+              <div class="content html_format">
+                <img align="right" src="http://habrastorage.org/storage2/883/451/611/8834516110e63b37b1decae04d72fe03.jpeg" />Недавно мне попалась на глаза интересная статья о проблемах в концепции инкапсуляции — <a href="http://www.johndcook.com/blog/2011/03/02/psychological-encapsulation/">почитайте</a>, если есть время.<br />
+                Для тех, у кого времени нет, я быстренько перескажу суть: инкапсуляция не выполняет одной из своих основных задач (дать «черный ящик» с описанными входами и выходами) по целому ряду причин:<br />
+                <ol>
+                  <li>Программисты не доверяют чужим «черным ящикам».
+                  </li>
+                  <li>В чужих «чёрных ящиках» случаются ошибки, которые приходится фиксить, влезая в их внутренности (и ломая этим всю затею).
+                  </li>
+                  <li>Входы и выходы не всегда описаны понятно. Иногда бывает проще создать свой велосипед, чем разбираться в том, как поехать на чужом.
+                  </li>
+                </ol><br />
+                Всё это презренная реальность, которую теоретики программирования игнорируют. И как же с этим жить?<br />
+                <p>
+                  <a class="habracut" href="http://habrahabr.ru/post/136392/#habracut">Читать дальше �</a>
+                </p>
+                <div class="clear"></div>
+              </div>
+              <ul class="tags">
+                <li>
+                  <a href="http://habrahabr.ru/search/?q=%5B%D0%B8%D0%BD%D0%BA%D0%B0%D0%BF%D1%81%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F%5D&amp;target_type=posts" rel="tag">инкапсуляция</a>
+                </li>
+              </ul>
+              <div class="infopanel" id="infopanel_post_136392">
+                <div class="voting">
+                  <div class="mark positive">
+                    <span class="score" title="Всего 55: �36 и �19">+17</span>
+                  </div>
+                </div>
+                <div class="published">
+                  17 января 2012, 12:44
+                </div>
+                <div class="favorite">
+                  <a class="guest" href="#" onclick="return false;" title="Только зарегистрированные пользователи могут добавлять посты в избранное"></a>
+                </div>
+                <div class="favs_count" title="Количество пользователей, добавивших пост в избранное">
+                  85
+                </div>
+                <div class="author">
+                  <a href="http://habrahabr.ru/users/tangro/" title="Автор текста">tangro</a> <span class="rating" title="рейтинг пользователя">490,7</span>
+                </div>
+                <div class="comments">
+                  <a href="http://habrahabr.ru/post/136392/#comments" title="Читать комментарии"><span class="all">36</span></a>
+                </div>
+              </div>
+              <div class="clear"></div>
+            </div>
+---------------
+<div class="post" id="post_136416">
+              <h1 class="title">
+                <a class="post_title" href="http://habrahabr.ru/post/136416/">Broadcom разработал чипсет с поддержкой NFC и ГЛОНАСС для недорогих мобильных устройств</a>
+              </h1>
+              <div class="hubs">
+                <a class="hub" href="http://habrahabr.ru/hub/mobiledev/" title="Вы не подписаны на этот хаб">Mobile Development</a><span class="profiled_hub" title="Профильный хаб">*</span>
+              </div>
+              <div class="content html_format">
+                <img src="http://habrastorage.org/storage2/225/7c4/9a9/2257c49a9209f74d5eebbdd9b793d8c6.jpeg" /><br />
+                <br />
+                Судя по всему, рынок бюджетных смартфонов продолжает расти, причем достаточно активно. Само собой, раз есть спрос, есть и предложение, и производители предлагают самые разные решения для данного рынка. Так вот, компания Broadcom на днях представила чип для бюджетных смартфонов, поддерживающий технологию NFC, а также GPS и ГЛОНАСС.<br />
+                <br />
+                <p>
+                  <a class="habracut" href="http://habrahabr.ru/post/136416/#habracut">Читать дальше �</a>
+                </p>
+                <div class="clear"></div>
+              </div>
+              <ul class="tags">
+                <li>
+                  <a href="http://habrahabr.ru/search/?q=%5Bbroadcom%5D&amp;target_type=posts" rel="tag">broadcom</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5Bnfc%5D&amp;target_type=posts" rel="tag">nfc</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5B%D0%B3%D0%BB%D0%BE%D0%BD%D0%B0%D1%81%D1%81%5D&amp;target_type=posts" rel="tag">глонасс</a>
+                </li>
+              </ul>
+              <div class="infopanel" id="infopanel_post_136416">
+                <div class="voting">
+                  <div class="mark positive">
+                    <span class="score" title="Всего 10: �7 и �3">+4</span>
+                  </div>
+                </div>
+                <div class="published">
+                  17 января 2012, 12:42
+                </div>
+                <div class="favorite">
+                  <a class="guest" href="#" onclick="return false;" title="Только зарегистрированные пользователи могут добавлять посты в избранное"></a>
+                </div>
+                <div class="favs_count" title="Количество пользователей, добавивших пост в избранное"></div>
+                <div class="author">
+                  <a href="http://habrahabr.ru/users/marks/" title="Автор текста">marks</a> <span class="rating" title="рейтинг пользователя">585,0</span>
+                </div>
+                <div class="comments">
+                  <a href="http://habrahabr.ru/post/136416/#comments" title="Читать комментарии"><span class="all">1</span></a>
+                </div>
+              </div>
+              <div class="clear"></div>
+            </div>
+---------------
+<div class="post" id="post_136424">
+              <h1 class="title">
+                <a class="post_title" href="http://habrahabr.ru/post/136424/">Simpliste: засучим рукава</a>
+              </h1>
+              <div class="hubs">
+                <a class="hub" href="http://habrahabr.ru/hub/webdev/" title="Вы не подписаны на этот хаб">Веб-разработка</a><span class="profiled_hub" title="Профильный хаб">*</span>
+              </div>
+              <div class="content html_format">
+                <img align="left" src="http://habrastorage.org/storage2/52b/8ac/1b5/52b8ac1b5b0cadc4c6491cb8b2c1994e.png" /><br />
+                После <a href="http://habrahabr.ru/blogs/webdev/136077/">моего поста</a> в прошлый четверг не осталось сомнений в том, что простой и бесплатный шаблон (кто-то даже называет фреймворк) с адаптивной версткой на HTML5 вызывает интерес у потенциальных пользователей. Пост даже собрал достаточно голосов, чтобы НЛО разрешило мне пригласить кого-нибудь на Хабрахабр.<br />
+                <br />
+                Нужно напомнить, что <a href="http://cssr.ru/simpliste/ru.html">Simpliste</a>� именно такой шаблон. И теперь работа по его развитию пойдет полным ходом.<br />
+                <br />
+                Одним из преимуществ Simpliste я считаю наличие готовых тем оформления. Сразу, в момент запуска существовало 3 темы. Постепенно я создал еще несколько.<br />
+                <p>
+                  <a class="habracut" href="http://habrahabr.ru/post/136424/#habracut">Читать дальше �</a>
+                </p>
+                <div class="clear"></div>
+              </div>
+              <ul class="tags">
+                <li>
+                  <a href="http://habrahabr.ru/search/?q=%5Bsimpliste%5D&amp;target_type=posts" rel="tag">simpliste</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5Bhtml5%5D&amp;target_type=posts" rel="tag">html5</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5Bcss3%5D&amp;target_type=posts" rel="tag">css3</a>
+                </li>
+              </ul>
+              <div class="infopanel" id="infopanel_post_136424">
+                <div class="voting">
+                  <div class="mark positive">
+                    <span class="score" title="Всего 79: �64 и �15">+49</span>
+                  </div>
+                </div>
+                <div class="published">
+                  17 января 2012, 12:30
+                </div>
+                <div class="favorite">
+                  <a class="guest" href="#" onclick="return false;" title="Только зарегистрированные пользователи могут добавлять посты в избранное"></a>
+                </div>
+                <div class="favs_count" title="Количество пользователей, добавивших пост в избранное">
+                  224
+                </div>
+                <div class="author">
+                  <a href="http://habrahabr.ru/users/crenative/" title="Автор текста">crenative</a> <span class="rating" title="рейтинг пользователя">29,6</span>
+                </div>
+                <div class="comments">
+                  <a href="http://habrahabr.ru/post/136424/#comments" title="Читать комментарии"><span class="all">45</span></a>
+                </div>
+              </div>
+              <div class="clear"></div>
+            </div>
+---------------
+<div class="post" id="post_136414">
+              <h1 class="title">
+                <a class="post_title" href="http://habrahabr.ru/post/136414/">IBM установила атомарные пределы плотности магнитной памяти</a>
+              </h1>
+              <div class="hubs">
+                <a class="hub" href="http://habrahabr.ru/hub/hardware/" title="Вы не подписаны на этот хаб">Железо</a>
+              </div>
+              <div class="content html_format">
+                <img align="left" alt="image" src="http://www.ibm.com/smarterplanet/global/images/us__en_us__computing__atomic_memory_info2__364x333.png" />Учёные из научно-исследовательского подразделения IBM Research корпорации IBM успешно продемонстрировали возможность хранения информации в ячейке памяти, состоящей всего лишь из 12-ти магнитных атомов. Для сравнения: современный жесткий диск использует около миллиона атомов для хранения одного бита информации. Способность манипулировать свойствами вещества на основе его элементарных базовых элементов может привести к жизненно необходимому пониманию того, как создавать более компактные, быстрые и энергетически эффективные устройства.<br />
+                <p>
+                  <a class="habracut" href="http://habrahabr.ru/post/136414/#habracut">Читать дальше �</a>
+                </p>
+                <div class="clear"></div>
+              </div>
+              <ul class="tags">
+                <li>
+                  <a href="http://habrahabr.ru/search/?q=%5Bibm%5D&amp;target_type=posts" rel="tag">ibm</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5B%D0%B8%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%D1%86%D0%B8%D0%B8%5D&amp;target_type=posts" rel="tag">инновации</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5B%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C%5D&amp;target_type=posts" rel="tag">память</a>
+                </li>
+              </ul>
+              <div class="infopanel" id="infopanel_post_136414">
+                <div class="voting">
+                  <div class="mark positive">
+                    <span class="score" title="Всего 46: �42 и �4">+38</span>
+                  </div>
+                </div>
+                <div class="published">
+                  17 января 2012, 11:21
+                </div>
+                <div class="favorite">
+                  <a class="guest" href="#" onclick="return false;" title="Только зарегистрированные пользователи могут добавлять посты в избранное"></a>
+                </div>
+                <div class="favs_count" title="Количество пользователей, добавивших пост в избранное">
+                  18
+                </div>
+                <div class="author">
+                  <a href="http://habrahabr.ru/users/ShpuntiK/" title="Автор текста">ShpuntiK</a> <span class="rating" title="рейтинг пользователя">8,5</span>
+                </div>
+                <div class="comments">
+                  <a href="http://habrahabr.ru/post/136414/#comments" title="Читать комментарии"><span class="all">46</span></a>
+                </div>
+              </div>
+              <div class="clear"></div>
+            </div>
+---------------
+<div class="post" id="post_136221">
+              <h1 class="title">
+                <a class="post_title" href="http://habrahabr.ru/post/136221/">Playstation 4 не будет представлена в июне</a>
+              </h1>
+              <div class="hubs">
+                <a class="hub" href="http://habrahabr.ru/hub/game_consoles/" title="Вы не подписаны на этот хаб">Игровые приставки</a>
+              </div>
+              <div class="content html_format">
+                Несмотря на то, что представители некоторых интернет-ресурсов заявляют о будущем июньском анонсе Playstation 4, Wii U и XboX следующего поколения, представители Sony считают по-другому. На днях руководство этой компании заявило, что Playstation 4 анонсирована не будет, да и вообще, в этом году анонса данной игровой консоли ожидать не стоит. PS3, по словам Казуо Хираи, будет актуальной еще долго, поскольку эта игровая консоль рассчитана примерно на 10 лет.<br />
+                <br />
+                <p>
+                  <a class="habracut" href="http://habrahabr.ru/post/136221/#habracut">Читать дальше �</a>
+                </p>
+                <div class="clear"></div>
+              </div>
+              <ul class="tags">
+                <li>
+                  <a href="http://habrahabr.ru/search/?q=%5BPlaystation%204%5D&amp;target_type=posts" rel="tag">Playstation 4</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5B%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D0%B8%5D&amp;target_type=posts" rel="tag">игровые консоли</a>
+                </li>
+              </ul>
+              <div class="infopanel" id="infopanel_post_136221">
+                <div class="voting">
+                  <div class="mark">
+                    <span class="score" title="Всего 0: �0 и �0">0</span>
+                  </div>
+                </div>
+                <div class="published">
+                  17 января 2012, 10:56
+                </div>
+                <div class="favorite">
+                  <a class="guest" href="#" onclick="return false;" title="Только зарегистрированные пользователи могут добавлять посты в избранное"></a>
+                </div>
+                <div class="favs_count" title="Количество пользователей, добавивших пост в избранное"></div>
+                <div class="author">
+                  <a href="http://habrahabr.ru/users/marks/" title="Автор текста">marks</a> <span class="rating" title="рейтинг пользователя">585,0</span>
+                </div>
+                <div class="comments">
+                  <a href="http://habrahabr.ru/post/136221/#comments" title="Комментировать"><span class="all">Комментировать</span></a>
+                </div>
+              </div>
+              <div class="clear"></div>
+            </div>
+---------------
+<div class="post" id="post_136406">
+              <h1 class="title">
+                <a class="post_title" href="http://habrahabr.ru/post/136406/">Нечеткий поиск слова на платформе iOS</a>
+              </h1>
+              <div class="hubs">
+                <a class="hub" href="http://habrahabr.ru/hub/mobiledev/" title="Вы не подписаны на этот хаб">Mobile Development</a><span class="profiled_hub" title="Профильный хаб">*</span>
+              </div>
+              <div class="content html_format">
+                Доброго времени суток! Сегодня мы хотим поделиться своей Developer Story… а также опытом оптимизации стандартных алгоритмов нечеткого поиска под мобильные устройства.<br />
+                <br />
+                <h5>
+                  Предыстория
+                </h5><br />
+                Все началось с просмотра лекций Стэнфордского Университета по курсу “CS193P Developing Apps for iOS”. Но в качестве опытного проекта не хотелось выдать очередной калькулятор.
+                <p>
+                  <a class="habracut" href="http://habrahabr.ru/post/136406/#habracut">Читать дальше �</a>
+                </p>
+                <div class="clear"></div>
+              </div>
+              <ul class="tags">
+                <li>
+                  <a href="http://habrahabr.ru/search/?q=%5B%D0%96%D0%B8%D0%A8%D0%B8%5D&amp;target_type=posts" rel="tag">ЖиШи</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5B%D0%96%D0%B8-%D0%A8%D0%B8%5D&amp;target_type=posts" rel="tag">Жи-Ши</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5B%D0%BE%D1%80%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F%5D&amp;target_type=posts" rel="tag">орфография</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5B%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%5D&amp;target_type=posts" rel="tag">правописание</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5Bios%5D&amp;target_type=posts" rel="tag">ios</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5B%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%5D&amp;target_type=posts" rel="tag">оптимизация</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5B%D0%BD%D0%B5%D1%87%D0%B5%D1%82%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%5D&amp;target_type=posts" rel="tag">нечеткий поиск</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C%5D&amp;target_type=posts" rel="tag">словарь</a>
+                </li>
+              </ul>
+              <div class="infopanel" id="infopanel_post_136406">
+                <div class="voting">
+                  <div class="mark positive">
+                    <span class="score" title="Всего 10: �7 и �3">+4</span>
+                  </div>
+                </div>
+                <div class="published">
+                  17 января 2012, 09:44
+                </div>
+                <div class="favorite">
+                  <a class="guest" href="#" onclick="return false;" title="Только зарегистрированные пользователи могут добавлять посты в избранное"></a>
+                </div>
+                <div class="favs_count" title="Количество пользователей, добавивших пост в избранное">
+                  21
+                </div>
+                <div class="author">
+                  <a href="http://habrahabr.ru/users/askl/" title="Автор текста">askl</a> <span class="rating" title="рейтинг пользователя">0,0</span>
+                </div>
+                <div class="comments">
+                  <a href="http://habrahabr.ru/post/136406/#comments" title="Читать комментарии"><span class="all">16</span></a>
+                </div>
+              </div>
+              <div class="clear"></div>
+            </div>
+---------------
+<div class="post translation" id="post_136405">
+              <h1 class="title">
+                <a class="post_title" href="http://habrahabr.ru/post/136405/">Этот год станет решающим для облачного ПО Red Hat и VMware</a>
+              </h1>
+              <div class="hubs">
+                <a class="hub" href="http://habrahabr.ru/hub/cloud_computing/" title="Вы не подписаны на этот хаб">Облачные вычисления</a><span class="profiled_hub" title="Профильный хаб">*</span>
+              </div>
+              <div class="content html_format">
+                <i>Перевод небольшой заметки известного отраслевого аналитика Dana Blankenhorn</i>:<br />
+                <br />
+                Рано или поздно, облачные вычисления станут для предприятий выгодней, чем использование собственных серверов, благодаря консолидации аппаратных средств и меньшим расходам как на обслуживающий персонал, так и программное обеспечение. Даже на облачное программное обеспечение.<br />
+                <br />
+                И есть софтверные компании, прибыль которых возрастёт от такого перехода. Это компании, которые делают ПО для облачных вычислений. В частности, это будет выгодно для Red Hat и VMware, двух публичных компаний, лидеров облачного ПО.
+                <p>
+                  <a class="habracut" href="http://habrahabr.ru/post/136405/#habracut">Читать дальше �</a>
+                </p>
+                <div class="clear"></div>
+              </div>
+              <ul class="tags">
+                <li>
+                  <a href="http://habrahabr.ru/search/?q=%5Bred%20hat%5D&amp;target_type=posts" rel="tag">red hat</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5Bvmware%5D&amp;target_type=posts" rel="tag">vmware</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5Bcloud%20computing%5D&amp;target_type=posts" rel="tag">cloud computing</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5Bcloud%5D&amp;target_type=posts" rel="tag">cloud</a>
+                </li>
+              </ul>
+              <div class="infopanel" id="infopanel_post_136405">
+                <div class="voting">
+                  <div class="mark positive">
+                    <span class="score" title="Всего 22: �17 и �5">+12</span>
+                  </div>
+                </div>
+                <div class="published">
+                  17 января 2012, 09:36
+                </div>
+                <div class="favorite">
+                  <a class="guest" href="#" onclick="return false;" title="Только зарегистрированные пользователи могут добавлять посты в избранное"></a>
+                </div>
+                <div class="favs_count" title="Количество пользователей, добавивших пост в избранное">
+                  9
+                </div>
+                <div class="original-author">
+                  <a href="http://seekingalpha.com/article/319491-cloud-software-reaches-its-peak-for-red-hat-and-vmware-in-2012" title="Автор оригинала: Dana Blankenhorn">Dana Blankenhorn</a>
+                </div>
+                <div class="author">
+                  <a href="http://habrahabr.ru/users/mister_fog/" title="Автор текста">mister_fog</a> <span class="rating" title="рейтинг пользователя">144,6</span>
+                </div>
+                <div class="comments">
+                  <a href="http://habrahabr.ru/post/136405/#comments" title="Читать комментарии"><span class="all">14</span></a>
+                </div>
+              </div>
+              <div class="clear"></div>
+            </div>
+---------------
+<div class="post" id="post_136398">
+              <h1 class="title">
+                <a class="post_title" href="http://habrahabr.ru/post/136398/">Разъяснение по CAP-теореме</a>
+              </h1>
+              <div class="hubs">
+                <a class="hub" href="http://habrahabr.ru/hub/nosql/" title="Вы не подписаны на этот хаб">NoSQL</a><span class="profiled_hub" title="Профильный хаб">*</span>
+              </div>
+              <div class="content html_format">
+                Статья &quot;<a href="http://habrahabr.ru/blogs/nosql/136305/">Недопонимание CAP-теоремы</a>&quot; и комментарии к ней свидетельствуют, что непонимание действительно есть. И связано оно не только с неправильным толкованием термина «partitioning», но и с ментальными ошибками на других уровнях. Попробую внести ясность.<br />
+                <p>
+                  <a class="habracut" href="http://habrahabr.ru/post/136398/#habracut">Читать дальше �</a>
+                </p>
+                <div class="clear"></div>
+              </div>
+              <ul class="tags">
+                <li>
+                  <a href="http://habrahabr.ru/search/?q=%5Bcap-%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0%5D&amp;target_type=posts" rel="tag">cap-теорема</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5Bcap%20theorem%5D&amp;target_type=posts" rel="tag">cap theorem</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5Bnosql%5D&amp;target_type=posts" rel="tag">nosql</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5Bsplit-brain%5D&amp;target_type=posts" rel="tag">split-brain</a>
+                </li>
+              </ul>
+              <div class="infopanel" id="infopanel_post_136398">
+                <div class="voting">
+                  <div class="mark positive">
+                    <span class="score" title="Всего 33: �29 и �4">+25</span>
+                  </div>
+                </div>
+                <div class="published">
+                  17 января 2012, 06:34
+                </div>
+                <div class="favorite">
+                  <a class="guest" href="#" onclick="return false;" title="Только зарегистрированные пользователи могут добавлять посты в избранное"></a>
+                </div>
+                <div class="favs_count" title="Количество пользователей, добавивших пост в избранное">
+                  73
+                </div>
+                <div class="author">
+                  <a href="http://habrahabr.ru/users/dimsmol/" title="Автор текста">dimsmol</a> <span class="rating" title="рейтинг пользователя">15,5</span>
+                </div>
+                <div class="comments">
+                  <a href="http://habrahabr.ru/post/136398/#comments" title="Читать комментарии"><span class="all">15</span></a>
+                </div>
+              </div>
+              <div class="clear"></div>
+            </div>
+---------------
+<div class="post" id="post_136400">
+              <h1 class="title">
+                <a class="post_title" href="http://habrahabr.ru/post/136400/">Идеальные наушники-вкладыши за 5 минут</a>
+              </h1>
+              <div class="hubs">
+                <a class="hub" href="http://habrahabr.ru/hub/gadgets/" title="Вы не подписаны на этот хаб">Гаджеты. Устройства для гиков</a>
+              </div>
+              <div class="content html_format">
+                Я не знаю как долго выбирает себе наушники среднестатистический хабрачеловек, но у меня этот процесс занял около 2 недель. Вполне возможно, что в ближайшем будущем подобная проблема исчезнет в принципе.<br />
+                Канадская компания <a href="http://sonomax.com/">Sonomax Technologies</a> разработала <a href="http://sculptedeers.com/">устройство</a> для изготовления вкладыша для наушников именно под Ваши уши. Смысл гаджета заключается в заполнении резинового шарика силиконом в Ваших ушных каналах.<br />
+                <br />
+                <p>
+                  <a class="habracut" href="http://habrahabr.ru/post/136400/#habracut">Далее</a>
+                </p>
+                <div class="clear"></div>
+              </div>
+              <ul class="tags">
+                <li>
+                  <a href="http://habrahabr.ru/search/?q=%5B%D0%B8%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%B0%D1%83%D1%88%D0%BD%D0%B8%D0%BA%D0%B8%5D&amp;target_type=posts" rel="tag">идеальные наушники</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5B%D1%81%D0%B8%D0%BB%D0%B8%D0%BA%D0%BE%D0%BD%5D&amp;target_type=posts" rel="tag">силикон</a>
+                </li>
+                <li>, <a href="http://habrahabr.ru/search/?q=%5B%D0%BD%D0%B0%D1%83%D1%88%D0%BD%D0%B8%D0%BA%D0%B8%5D&amp;target_type=posts" rel="tag">наушники</a>
+                </li>
+              </ul>
+              <div class="infopanel" id="infopanel_post_136400">
+                <div class="voting">
+                  <div class="mark positive">
+                    <span class="score" title="Всего 28: �22 и �6">+16</span>
+                  </div>
+                </div>
+                <div class="published">
+                  17 января 2012, 06:22
+                </div>
+                <div class="favorite">
+                  <a class="guest" href="#" onclick="return false;" title="Только зарегистрированные пользователи могут добавлять посты в избранное"></a>
+                </div>
+                <div class="favs_count" title="Количество пользователей, добавивших пост в избранное">
+                  30
+                </div>
+                <div class="author">
+                  <a href="http://habrahabr.ru/users/slayerhabr/" title="Автор текста">slayerhabr</a> <span class="rating" title="рейтинг пользователя">5,2</span>
+                </div>
+                <div class="comments">
+                  <a href="http://habrahabr.ru/post/136400/#comments" title="Читать комментарии"><span class="all">51</span></a>
+                </div>
+              </div>
+              <div class="clear"></div>
+            </div>
+---------------
